@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.59,0:00:04.50,Text,,0,0,0,,壬氏的独语
+Dialogue: 0,0:00:07.84,0:00:11.05,Text,,0,0,0,,没想到连选择之庙的机关都解开了
+Dialogue: 0,0:00:12.89,0:00:18.11,Text,,0,0,0,,识字教室也在药师的建议下顺利进行
+Dialogue: 0,0:00:19.02,0:00:21.94,Text,,0,0,0,,明明是个拥有敏锐洞察力的人
+Dialogue: 0,0:00:22.30,0:00:23.74,Text,,0,0,0,,不知道为什么
+Dialogue: 0,0:00:23.76,0:00:27.06,Text,,0,0,0,,却察觉不到我想让她察觉的事情
+Dialogue: 0,0:00:29.42,0:00:31.52,Text,,0,0,0,,我要怎么告诉她呢
+Dialogue: 0,0:00:32.59,0:00:33.62,Text,,0,0,0,,要写下来吗
+Dialogue: 0,0:00:34.04,0:00:38.91,Text,,0,0,0,,不 万一被其他人看到了就大事不妙了
+Dialogue: 0,0:00:39.31,0:00:42.83,Text,,0,0,0,,对了 还可以传话
+Dialogue: 0,0:00:43.46,0:00:46.50,Text,,0,0,0,,不 那样也不对
+Dialogue: 0,0:00:47.51,0:00:50.38,Text,,0,0,0,,果然只有直接告诉她吗
+Dialogue: 0,0:00:50.97,0:00:53.51,Text,,0,0,0,,但是我要怎么开口呢
+Dialogue: 0,0:00:55.35,0:00:57.52,Text,,0,0,0,,壬氏大人在自言自语
+Dialogue: 0,0:00:58.47,0:01:01.27,Text,,0,0,0,,问他的话觉得心里难受 看着的话又觉得我的眼晴难受
+Dialogue: 0,0:01:01.48,0:01:02.40,Text,,0,0,0,,啊 药师
+Dialogue: 0,0:01:02.69,0:01:04.23,Text,,0,0,0,,您请继续吧
+Dialogue: 0,0:01:04.26,0:01:05.11,Text,,0,0,0,,怎么继续啊
+Dialogue: 0,0:01:05.27,0:01:07.82,Text,,0,0,0,,那不打扰你 我先告辞了
+Dialogue: 0,0:01:07.84,0:01:09.19,Text,,0,0,0,,你 你等等
+Dialogue: 0,0:01:10.24,0:01:13.20,Text,,0,0,0,,我有话要告诉你
+Dialogue: 0,0:01:13.82,0:01:16.28,Text,,0,0,0,,怎么办 怎么告诉她呢
+Dialogue: 0,0:01:16.58,0:01:18.95,Text,,0,0,0,,会不会吓到她
+Dialogue: 0,0:01:19.55,0:01:22.00,Text,,0,0,0,,她还会用往常一样的态度对待我吗
+Dialogue: 0,0:01:22.21,0:01:25.21,Text,,0,0,0,,我该怎么做 怎么做才好
+Dialogue: 0,0:01:31.13,0:01:32.59,Text,,0,0,0,,这难道是某种新的病吗
+Dialogue: 0,0:01:33.43,0:01:35.14,Text,,0,0,0,,我去拿点药回来
+Dialogue: 0,0:01:36.35,0:01:38.39,Text,,0,0,0,,我要到底怎么说呢
+Dialogue: 0,0:01:41.14,0:01:43.27,Text,,0,0,0,,下集 皇太后
+Dialogue: 0,0:01:43.57,0:01:46.90,Text,,0,0,0,,又有麻烦事找上门了

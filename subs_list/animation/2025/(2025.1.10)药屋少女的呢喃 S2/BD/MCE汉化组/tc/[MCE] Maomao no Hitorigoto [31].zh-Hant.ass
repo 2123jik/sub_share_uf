@@ -1,0 +1,48 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:37 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:02.59,0:00:04.50,Text,,0,0,0,,壬氏的獨語
+Dialogue: 0,0:00:07.84,0:00:11.05,Text,,0,0,0,,沒想到連選擇之廟的機關都解開了
+Dialogue: 0,0:00:12.89,0:00:18.11,Text,,0,0,0,,識字教室也在藥師的建議下順利進行
+Dialogue: 0,0:00:19.02,0:00:21.94,Text,,0,0,0,,明明是個擁有敏銳洞察力的人
+Dialogue: 0,0:00:22.30,0:00:23.74,Text,,0,0,0,,不知道為什麼
+Dialogue: 0,0:00:23.76,0:00:27.06,Text,,0,0,0,,卻察覺不到我想讓她察覺的事情
+Dialogue: 0,0:00:29.42,0:00:31.52,Text,,0,0,0,,我要怎麼告訴她呢
+Dialogue: 0,0:00:32.59,0:00:33.62,Text,,0,0,0,,要寫下來嗎
+Dialogue: 0,0:00:34.04,0:00:38.91,Text,,0,0,0,,不 萬一被其他人看到了就大事不妙了
+Dialogue: 0,0:00:39.31,0:00:42.83,Text,,0,0,0,,對了 還可以傳話
+Dialogue: 0,0:00:43.46,0:00:46.50,Text,,0,0,0,,不 那樣也不對
+Dialogue: 0,0:00:47.51,0:00:50.38,Text,,0,0,0,,果然只有直接告訴她嗎
+Dialogue: 0,0:00:50.97,0:00:53.51,Text,,0,0,0,,但是我要怎麼開口呢
+Dialogue: 0,0:00:55.35,0:00:57.52,Text,,0,0,0,,壬氏大人在自言自語
+Dialogue: 0,0:00:58.47,0:01:01.27,Text,,0,0,0,,問他的話覺得心裡難受 看著的話又覺得我的眼晴難受
+Dialogue: 0,0:01:01.48,0:01:02.40,Text,,0,0,0,,啊 藥師
+Dialogue: 0,0:01:02.69,0:01:04.23,Text,,0,0,0,,您請繼續吧
+Dialogue: 0,0:01:04.26,0:01:05.11,Text,,0,0,0,,怎麼繼續啊
+Dialogue: 0,0:01:05.27,0:01:07.82,Text,,0,0,0,,那不打擾你 我先告辭了
+Dialogue: 0,0:01:07.84,0:01:09.19,Text,,0,0,0,,你 你等等
+Dialogue: 0,0:01:10.24,0:01:13.20,Text,,0,0,0,,我有話要告訴你
+Dialogue: 0,0:01:13.82,0:01:16.28,Text,,0,0,0,,怎麼辦 怎麼告訴她呢
+Dialogue: 0,0:01:16.58,0:01:18.95,Text,,0,0,0,,會不會嚇到她
+Dialogue: 0,0:01:19.55,0:01:22.00,Text,,0,0,0,,她還會用往常一樣的態度對待我嗎
+Dialogue: 0,0:01:22.21,0:01:25.21,Text,,0,0,0,,我該怎麼做 怎麼做才好
+Dialogue: 0,0:01:31.13,0:01:32.59,Text,,0,0,0,,這難道是某種新的病嗎
+Dialogue: 0,0:01:33.43,0:01:35.14,Text,,0,0,0,,我去拿點藥回來
+Dialogue: 0,0:01:36.35,0:01:38.39,Text,,0,0,0,,我要到底怎麼說呢
+Dialogue: 0,0:01:41.14,0:01:43.27,Text,,0,0,0,,下集 皇太后
+Dialogue: 0,0:01:43.57,0:01:46.90,Text,,0,0,0,,又有麻煩事找上門了

@@ -1,0 +1,5 @@
+﻿chs: 魔女守护者/魔女与使魔
+cht: 魔女守護者/魔女與使魔
+jp: ウィッチウォッチ
+en: WITCH WATCH
+rome: WITCH WATCH

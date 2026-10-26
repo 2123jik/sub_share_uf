@@ -1,0 +1,5 @@
+﻿chs: 阿尔玛酱想成为家人/小阿尔玛想要成为家人/少女型兵器想要成为家人
+cht: 阿爾瑪醬想成為家人/小阿爾瑪想要成為家人/少女型兵器想要成為家人
+jp: アルマちゃんは家族になりたい
+en: Alma-chan Wants to Have a family!/Alma-chan Wants to Be a Family!
+rome: Alma-chan wa Kazoku ni Naritai

@@ -1,0 +1,36 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:51 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:02.13,0:00:04.05,Text,,0,0,0,,小蘭的獨語
+Dialogue: 0,0:00:06.13,0:00:10.51,Text,,0,0,0,,貓貓 還有子翠到底去哪裡了？
+Dialogue: 0,0:00:11.21,0:00:16.22,Text,,0,0,0,,也不見她們兩個來浴場 也沒在醫局
+Dialogue: 0,0:00:16.93,0:00:20.52,Text,,0,0,0,,我還專門去北邊的桃園找她們了
+Dialogue: 0,0:00:24.32,0:00:27.03,Text,,0,0,0,,真是的 也沒辦法啊
+Dialogue: 0,0:00:27.06,0:00:28.33,Text,,0,0,0,,在她們兩個人回來之前
+Dialogue: 0,0:00:28.35,0:00:31.49,Text,,0,0,0,,我和赤羽大人只能努力做好按摩的工作了
+Dialogue: 0,0:00:33.79,0:00:35.87,Text,,0,0,0,,接下來是小蘭的小知識
+Dialogue: 0,0:00:36.97,0:00:38.50,Text,,0,0,0,,雖然只是傳聞
+Dialogue: 0,0:00:38.99,0:00:41.54,Text,,0,0,0,,送自己發繩的朋友還有
+Dialogue: 0,0:00:42.04,0:00:45.17,Text,,0,0,0,,和自己一起泡澡的朋友的友情會
+Dialogue: 0,0:00:45.81,0:00:49.38,Text,,0,0,0,,永遠永遠永遠～～～持續下去
+Dialogue: 0,0:00:54.23,0:00:59.10,Text,,0,0,0,,話說回來我和貓貓還有子翠第一次見面是在哪裡來著
+Dialogue: 0,0:00:59.47,0:01:01.69,Text,,0,0,0,,我們從什麼時候開始變得要好的
+Dialogue: 0,0:01:02.23,0:01:03.47,Text,,0,0,0,,忘記了
+Dialogue: 0,0:01:04.13,0:01:06.69,Text,,0,0,0,,等她們兩個回來了 問問她們吧
+Dialogue: 0,0:01:09.36,0:01:11.28,Text,,0,0,0,,下集 開始
+Dialogue: 0,0:01:11.82,0:01:12.99,Text,,0,0,0,,敬請期待

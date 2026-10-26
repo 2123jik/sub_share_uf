@@ -1,0 +1,44 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:50 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:02.06,0:00:04.05,Text,,0,0,0,,翠苓的獨語
+Dialogue: 0,0:00:05.92,0:00:09.51,Text,,0,0,0,,重返青春的藥要怎麼做啊
+Dialogue: 0,0:00:09.88,0:00:14.85,Text,,0,0,0,,如果不拿出點結果 不知道什麼時候會被神美殺了
+Dialogue: 0,0:00:15.14,0:00:17.35,Text,,0,0,0,,雖然我已經嘗試了很多了
+Dialogue: 0,0:00:19.60,0:00:20.90,Text,,0,0,0,,你怎麼來這裡了？
+Dialogue: 0,0:00:21.31,0:00:24.79,Text,,0,0,0,,守衛休息 飯食我就放在那裡了
+Dialogue: 0,0:00:24.86,0:00:29.53,Text,,0,0,0,,翠苓 關於重返青春的藥 你知道點什麼嗎？
+Dialogue: 0,0:00:29.63,0:00:37.37,Text,,0,0,0,,這個 神美大人叮囑過 讓我盡量不要跟你討論
+Dialogue: 0,0:00:37.62,0:00:38.66,Text,,0,0,0,,這樣啊
+Dialogue: 0,0:00:42.92,0:00:49.09,Text,,0,0,0,,自古以來使用的書中 有記載製作重返青春之藥的關鍵藥材
+Dialogue: 0,0:00:49.26,0:00:53.39,Text,,0,0,0,,但是關鍵的藥材名字被磨損 我都看不清了
+Dialogue: 0,0:00:53.51,0:00:56.06,Text,,0,0,0,,哎呀 真是太困擾了
+Dialogue: 0,0:00:56.15,0:01:02.98,Text,,0,0,0,,之前的醫師讓老鼠生了孩子 還研究了老鼠的胎盤
+Dialogue: 0,0:01:03.19,0:01:04.36,Text,,0,0,0,,雖然只是我的自言自語
+Dialogue: 0,0:01:04.77,0:01:07.98,Text,,0,0,0,,胎盤 這樣啊 是紫河車
+Dialogue: 0,0:01:09.94,0:01:12.66,Text,,0,0,0,,接下來是貓貓的小知識
+Dialogue: 0,0:01:13.44,0:01:16.87,Text,,0,0,0,,紫河車是用哺乳類動物的胎盤所做的藥材
+Dialogue: 0,0:01:17.41,0:01:22.58,Text,,0,0,0,,裡面包含了很多營養 可以有效補充氣血
+Dialogue: 0,0:01:23.25,0:01:26.25,Text,,0,0,0,,裡面還包含了促進組織再生的成分
+Dialogue: 0,0:01:26.50,0:01:29.01,Text,,0,0,0,,人們認為其具備擁有重返青春的功效
+Dialogue: 0,0:01:31.42,0:01:33.43,Text,,0,0,0,,謝謝你 雖然是自言自語
+Dialogue: 0,0:01:34.89,0:01:38.26,Text,,0,0,0,,但是重返青春的效果是個未知數
+Dialogue: 0,0:01:38.60,0:01:43.81,Text,,0,0,0,,跟其他藥物混合使用的人體實驗因為過於危險無法進行
+Dialogue: 0,0:01:43.85,0:01:45.27,Text,,0,0,0,,雖然只是我的自言自語
+Dialogue: 0,0:01:46.52,0:01:50.11,Text,,0,0,0,,喂 你等等 你有聽別人講話嗎？
+Dialogue: 0,0:01:51.40,0:01:53.45,Text,,0,0,0,,下集 禁軍

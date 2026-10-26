@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.10,0:00:04.05,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:07.17,0:00:08.72,Text,,0,0,0,,猫猫的小知识
+Dialogue: 0,0:00:09.84,0:00:13.64,Text,,0,0,0,,狗的听力大概是人的4倍
+Dialogue: 0,0:00:14.11,0:00:18.52,Text,,0,0,0,,还能听到人无法听到的高音
+Dialogue: 0,0:00:19.06,0:00:22.52,Text,,0,0,0,,还能通过动耳朵感知声音的方向
+Dialogue: 0,0:00:27.61,0:00:29.90,Text,,0,0,0,,狩猎真是灾难不断
+Dialogue: 0,0:00:30.57,0:00:33.87,Text,,0,0,0,,但是 我终于拿到那个了
+Dialogue: 0,0:00:35.15,0:00:38.29,Text,,0,0,0,,牛黄 牛黄
+Dialogue: 0,0:00:38.95,0:00:41.41,Text,,0,0,0,,你还真是个吵闹的家伙呢
+Dialogue: 0,0:00:41.96,0:00:44.25,Text,,0,0,0,,一会儿自言自语 一会儿唱歌
+Dialogue: 0,0:00:44.37,0:00:46.75,Text,,0,0,0,,壬氏大人 不好意思
+Dialogue: 0,0:00:47.36,0:00:50.97,Text,,0,0,0,,看来从异国把牛黄弄过来也值了
+Dialogue: 0,0:00:51.09,0:00:53.93,Text,,0,0,0,,是啊 只是看着那些灵药
+Dialogue: 0,0:00:53.96,0:00:57.14,Text,,0,0,0,,就感觉自己可以一个月不眠不休地工作了
+Dialogue: 0,0:00:57.43,0:00:59.35,Text,,0,0,0,,这样对你的身体有害吧
+Dialogue: 0,0:00:59.89,0:01:01.81,Text,,0,0,0,,那我就去翡翠宫了
+Dialogue: 0,0:01:01.84,0:01:02.94,Text,,0,0,0,,等等
+Dialogue: 0,0:01:03.02,0:01:05.94,Text,,0,0,0,,前两天的话 我还没有说完呢
+Dialogue: 0,0:01:06.42,0:01:08.32,Text,,0,0,0,,离得那么近可不妙
+Dialogue: 0,0:01:10.65,0:01:14.91,Text,,0,0,0,,哪里 这次狗又会从哪里跑出来 哪里
+Dialogue: 0,0:01:17.83,0:01:19.70,Text,,0,0,0,,下集 汤殿
+Dialogue: 0,0:01:20.37,0:01:23.42,Text,,0,0,0,,要去皇宫内的大浴场了
+Dialogue: 0,0:01:23.71,0:01:24.58,Text,,0,0,0,,敬请期待

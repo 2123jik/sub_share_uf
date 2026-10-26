@@ -1,0 +1,5 @@
+﻿chs: 肥宅勇者/丑男真战士
+cht: 肥宅勇者/醜男真戰士
+jp: ブサメンガチファイター
+en: Uglymug, Epicfighter
+rome: Busamen Gachi Fighter

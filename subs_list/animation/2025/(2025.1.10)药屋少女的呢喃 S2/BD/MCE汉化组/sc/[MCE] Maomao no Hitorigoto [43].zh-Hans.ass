@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.13,0:00:04.05,Text,,0,0,0,,翠苓的独语
+Dialogue: 0,0:00:06.99,0:00:09.05,Text,,0,0,0,,翠苓的小知识
+Dialogue: 0,0:00:09.93,0:00:13.85,Text,,0,0,0,,身体在毒药的影响下会被麻痹
+Dialogue: 0,0:00:14.47,0:00:15.85,Text,,0,0,0,,活动身体时
+Dialogue: 0,0:00:15.99,0:00:18.94,Text,,0,0,0,,神经利用电流对各身体部位发出指令
+Dialogue: 0,0:00:19.48,0:00:23.06,Text,,0,0,0,,但是毒能阻断这种电流的传递
+Dialogue: 0,0:00:23.18,0:00:26.03,Text,,0,0,0,,从而起到抑制神经正常活动的作用
+Dialogue: 0,0:00:29.03,0:00:32.78,Text,,0,0,0,,能顺利看完昨天的庆典真是太好了
+Dialogue: 0,0:00:33.86,0:00:35.66,Text,,0,0,0,,真的太好了
+Dialogue: 0,0:00:36.56,0:00:38.66,Text,,0,0,0,,子翠 你看到那家伙了吗
+Dialogue: 0,0:00:39.33,0:00:41.83,Text,,0,0,0,,那家伙 你是说猫猫吗？
+Dialogue: 0,0:00:43.46,0:00:45.34,Text,,0,0,0,,我到底该怎么做
+Dialogue: 0,0:00:47.02,0:00:48.09,Text,,0,0,0,,翠苓大人
+Dialogue: 0,0:00:48.80,0:00:50.09,Text,,0,0,0,,翠苓大人？！
+Dialogue: 0,0:00:50.68,0:00:52.84,Text,,0,0,0,,今天我的身体也没有任何异样
+Dialogue: 0,0:00:54.22,0:00:56.56,Text,,0,0,0,,咋天晚上睡得也非常很好
+Dialogue: 0,0:00:56.93,0:00:58.27,Text,,0,0,0,,这 这样啊
+Dialogue: 0,0:00:58.64,0:01:02.31,Text,,0,0,0,,还在室内进行了适当的运动 饭菜也一扫而光
+Dialogue: 0,0:01:02.34,0:01:03.94,Text,,0,0,0,,我现在简直就是健康的化身！
+Dialogue: 0,0:01:04.69,0:01:07.65,Text,,0,0,0,,这家伙的脑子是不是不正常了
+Dialogue: 0,0:01:08.23,0:01:10.11,Text,,0,0,0,,我觉得应该不是
+Dialogue: 0,0:01:10.36,0:01:14.82,Text,,0,0,0,,应该是还没有放弃想成为苏醒之药的实验体吧
+Dialogue: 0,0:01:16.66,0:01:19.70,Text,,0,0,0,,你就不怕副作用吗
+Dialogue: 0,0:01:20.50,0:01:24.58,Text,,0,0,0,,灵丹妙药的诞生往往伴随着牺牲
+Dialogue: 0,0:01:27.59,0:01:29.13,Text,,0,0,0,,你的左手怎么也
+Dialogue: 0,0:01:30.84,0:01:33.84,Text,,0,0,0,,你这显眼的荨麻疹又是试了什么毒
+Dialogue: 0,0:01:34.11,0:01:35.85,Text,,0,0,0,,这个啊
+Dialogue: 0,0:01:36.01,0:01:38.39,Text,,0,0,0,,如此如此 这般这般
+Dialogue: 0,0:01:38.85,0:01:39.72,Text,,0,0,0,,懒得管了
+Dialogue: 0,0:01:40.81,0:01:42.60,Text,,0,0,0,,下集 堡垒
+Dialogue: 0,0:01:42.92,0:01:45.44,Text,,0,0,0,,下次我又会被带到什么地方呢

@@ -1,0 +1,5 @@
+﻿chs: Bad Girl 不良少女/坏女孩
+cht: Bad Girl 不良少女/壞女孩
+jp: ばっどがーる
+en: Bad Girl
+rome: Bad Girl

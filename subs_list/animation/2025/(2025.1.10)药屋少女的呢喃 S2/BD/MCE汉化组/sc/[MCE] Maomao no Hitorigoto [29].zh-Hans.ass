@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:01.83,0:00:03.84,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:05.76,0:00:09.01,Text,,0,0,0,,这次也是差点不知道该怎么办
+Dialogue: 0,0:00:09.05,0:00:12.93,Text,,0,0,0,,一想到特使们吃惊的表情 哼哼
+Dialogue: 0,0:00:13.89,0:00:15.22,Text,,0,0,0,,话说回来
+Dialogue: 0,0:00:15.40,0:00:19.19,Text,,0,0,0,,月之精灵完成度高的让人说不出话来
+Dialogue: 0,0:00:21.90,0:00:25.94,Text,,0,0,0,,和剧毒一样 拥有让人疯狂的威力
+Dialogue: 0,0:00:25.98,0:00:27.94,Text,,0,0,0,,看来必须要妥善封印好了
+Dialogue: 0,0:00:28.07,0:00:30.66,Text,,0,0,0,,药师 你又在自言自语了吗
+Dialogue: 0,0:00:30.86,0:00:34.95,Text,,0,0,0,,壬氏大人 您辛苦了 完成了这么重大的事情
+Dialogue: 0,0:00:35.30,0:00:37.04,Text,,0,0,0,,你才是 有劳了
+Dialogue: 0,0:00:37.66,0:00:42.25,Text,,0,0,0,,只是我没想到在月夜下舞动的光的真实面目会是蛾
+Dialogue: 0,0:00:42.67,0:00:46.25,Text,,0,0,0,,是的 有个对虫子很了解的熟人帮了我不少忙
+Dialogue: 0,0:00:47.92,0:00:50.26,Text,,0,0,0,,现在来讲猫猫的小知识
+Dialogue: 0,0:00:51.18,0:00:52.32,Text,,0,0,0,,在蛾子中
+Dialogue: 0,0:00:52.35,0:00:57.85,Text,,0,0,0,,有的种类是靠被称为尾状突起的器官的长度来判别雌雄的
+Dialogue: 0,0:00:58.47,0:01:01.10,Text,,0,0,0,,雌性和雄性比起来突起短一些
+Dialogue: 0,0:01:04.13,0:01:08.99,Text,,0,0,0,,请帮我判别的子翠和小兰吃点月饼吧
+Dialogue: 0,0:01:09.65,0:01:12.99,Text,,0,0,0,,然后呢 什么时候能失效呢
+Dialogue: 0,0:01:14.07,0:01:15.41,Text,,0,0,0,,您是指什么
+Dialogue: 0,0:01:15.78,0:01:20.91,Text,,0,0,0,,我是说 蛾围着我转的效果什么时候能失效
+Dialogue: 0,0:01:21.45,0:01:24.00,Text,,0,0,0,,从昨天晚上开始就一直甩不掉
+Dialogue: 0,0:01:24.25,0:01:25.54,Text,,0,0,0,,这是怎么回事
+Dialogue: 0,0:01:25.77,0:01:29.92,Text,,0,0,0,,衣服上沾的雌性蛾的味道应该已经去掉了
+Dialogue: 0,0:01:30.16,0:01:33.38,Text,,0,0,0,,不只是人类 甚至还能让昆虫为之癫狂
+Dialogue: 0,0:01:33.50,0:01:34.51,Text,,0,0,0,,真是可怕
+Dialogue: 0,0:01:35.10,0:01:37.26,Text,,0,0,0,,药师 你要去哪里
+Dialogue: 0,0:01:39.81,0:01:42.85,Text,,0,0,0,,下集 第三次到访水晶宫
+Dialogue: 0,0:01:43.23,0:01:45.61,Text,,0,0,0,,那里又藏了什么东西

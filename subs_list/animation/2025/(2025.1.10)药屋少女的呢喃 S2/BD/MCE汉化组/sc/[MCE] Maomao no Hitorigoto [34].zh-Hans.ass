@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.00,0:00:03.75,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:07.51,0:00:10.88,Text,,0,0,0,,因为樱花大人没有回自己的房间睡
+Dialogue: 0,0:00:10.90,0:00:12.43,Text,,0,0,0,,我完全没睡好
+Dialogue: 0,0:00:13.01,0:00:16.06,Text,,0,0,0,,早上好 昨天真是灾难啊
+Dialogue: 0,0:00:16.34,0:00:18.60,Text,,0,0,0,,是啊 不过没什么事真是太好了
+Dialogue: 0,0:00:18.85,0:00:21.65,Text,,0,0,0,,为什么大家会觉得身体不舒服呢
+Dialogue: 0,0:00:24.15,0:00:26.61,Text,,0,0,0,,接下来是猫猫的小知识
+Dialogue: 0,0:00:27.03,0:00:29.49,Text,,0,0,0,,如果有物体在密闭的空间里燃烧的话
+Dialogue: 0,0:00:29.65,0:00:32.03,Text,,0,0,0,,会产生有毒气体
+Dialogue: 0,0:00:32.66,0:00:34.74,Text,,0,0,0,,且这种空气无色无味
+Dialogue: 0,0:00:35.08,0:00:37.02,Text,,0,0,0,,会引起头疼和头晕目眩
+Dialogue: 0,0:00:37.04,0:00:39.08,Text,,0,0,0,,严重的会导致死亡
+Dialogue: 0,0:00:42.58,0:00:44.79,Text,,0,0,0,,都发生这么危险的事了
+Dialogue: 0,0:00:45.04,0:00:48.09,Text,,0,0,0,,以后应该不会再办这种聚会了吧
+Dialogue: 0,0:00:48.34,0:00:51.38,Text,,0,0,0,,我想计划下次的聚会
+Dialogue: 0,0:00:53.80,0:00:57.10,Text,,0,0,0,,难得大家能聚在一起 没有下次也太可惜了
+Dialogue: 0,0:00:57.47,0:01:01.19,Text,,0,0,0,,的确 子翠很擅长讲鬼故事
+Dialogue: 0,0:01:02.64,0:01:06.57,Text,,0,0,0,,不过 我还是想办一场能让大家既安心又开心的聚会
+Dialogue: 0,0:01:06.77,0:01:07.65,Text,,0,0,0,,你的意思是
+Dialogue: 0,0:01:08.40,0:01:12.19,Text,,0,0,0,,我把它称作“讨论虫子可爱之处的聚会”
+Dialogue: 0,0:01:12.22,0:01:13.78,Text,,0,0,0,,这样怎么样
+Dialogue: 0,0:01:15.53,0:01:18.02,Text,,0,0,0,,彻夜不眠一直讨论到早上
+Dialogue: 0,0:01:18.04,0:01:19.79,Text,,0,0,0,,我早就想这么干一次了
+Dialogue: 0,0:01:20.12,0:01:22.42,Text,,0,0,0,,机会难得 直接连上前后两天
+Dialogue: 0,0:01:22.45,0:01:26.94,Text,,0,0,0,,大家在不吃不喝的极限状态下交流虫子的魅力
+Dialogue: 0,0:01:26.96,0:01:28.67,Text,,0,0,0,,是相当危险的聚会
+Dialogue: 0,0:01:29.84,0:01:33.72,Text,,0,0,0,,猫猫 我话还没说完呢
+Dialogue: 0,0:01:34.91,0:01:36.60,Text,,0,0,0,,下集 狩猎
+Dialogue: 0,0:01:36.88,0:01:40.31,Text,,0,0,0,,好像要跟壬氏大人去远征了

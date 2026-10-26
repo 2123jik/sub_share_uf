@@ -1,0 +1,112 @@
+[Script Info]
+; Font Subset: 0KNYFFSE - 汉仪正圆-75S
+; Font Subset: DFLBAMN5 - 汉仪正圆-65S
+; Font Subset: IMY5DA3J - 更纱黑体 SC SemiBold
+; Font Subset: D6N4FFO3 - A-OTF Shin Maru Go Pr6N DB
+; Attention: This is an auto-generated script. (2025-05-28)
+; GitHub: https://github.com/MingYSub/SubsArchive/releases/tag/202504
+Title: [MingY] Lycoris Recoil - Friends are thieves of time. - 04.JPN
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: JP,D6N4FFO3,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,2,0,1,1.9,0,2,150,150,30,1
+Style: JP - Top,D6N4FFO3,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,1,0,1,1.9,0,8,150,150,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.61,0:00:09.21,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}幽霊の犯行？
+Dialogue: 0,0:00:09.93,0:00:11.46,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}なんだそりゃ
+Dialogue: 0,0:00:11.46,0:00:13.23,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}千束が言ってんのか
+Dialogue: 0,0:00:13.23,0:00:14.42,JP,,0,0,0,,{\3c&HEE922A&\blur3}瑞希さんも
+Dialogue: 0,0:00:15.87,0:00:18.47,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}幽霊ね{\fscx50}　{\fscx0} {\fscx50}　{\fscx}会ったことないな{\fscx50}　{\fscx}
+Dialogue: 0,0:00:18.47,0:00:19.84,JP,,0,0,0,,{\3c&HEE922A&\blur3}嘘ですよ
+Dialogue: 0,0:00:20.32,0:00:23.31,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}まあ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}カメラは嘘をつかない{\fscx50}　{\fscx}
+Dialogue: 0,0:00:24.10,0:00:25.10,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}始めるぞ
+Dialogue: 0,0:00:32.75,0:00:33.89,JP,,1200,0,0,,{\3c&H4039D1&\blur3}どっか…
+Dialogue: 0,0:00:32.75,0:00:35.48,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}隠蔽{\fscx50}　{\fscx0} {\fscx50}　{\fscx}するのね{\fscx50}　{\fscx}
+Dialogue: 0,0:00:35.48,0:00:36.34,JP,,0,0,0,,{\3c&H4039D1&\blur3}ミズキ
+Dialogue: 0,0:00:36.34,0:00:39.76,JP,,0,0,0,,{\3c&H969F1C&\blur3}先生にお尻ぺんぺんしてもらわないとね
+Dialogue: 0,0:00:39.76,0:00:44.00,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}いやいや{\fscx50}　{\fscx0} {\fscx50}　{\fscx}自分だって店の酒持って帰ってるでしょ{\fscx50}　{\fscx}
+Dialogue: 0,0:00:44.95,0:00:47.93,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}私たち{\fscx50}　{\fscx0} {\fscx50}　{\fscx}罪人{\fscx50}　{\fscx}
+Dialogue: 0,0:00:47.93,0:00:49.62,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}一緒に…{\fscx50}　{\fscx0} {\fscx50}　{\fscx}酒くさっ{\fscx50}　{\fscx}
+Dialogue: 0,0:00:49.62,0:00:51.50,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}やめて{\fscx50}　{\fscx0} {\fscx50}　{\fscx}やめろよ{\fscx50}　{\fscx}
+Dialogue: 0,0:00:51.50,0:00:52.45,JP - Top,,0,0,0,,{\3c&H969F1C&\blur3}同じじゃない
+Dialogue: 0,0:00:52.45,0:00:54.61,JP - Top,,0,0,0,,{\3c&H969F1C&\blur3}私は貴重なやつなだけだし
+Dialogue: 0,0:00:54.61,0:00:55.93,JP - Top,,0,500,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}黙ってる？{\fscx50}　{\fscx0} {\fscx50}　{\fscx}黙ってるよね？{\fscx50}　{\fscx}
+Dialogue: 0,0:00:54.61,0:00:55.93,JP - Top,,900,0,0,,{\3c&H4039D1&\blur3}ち… 違う
+Dialogue: 0,0:00:55.93,0:00:58.09,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}わかったわかった{\fscx50}　{\fscx0} {\fscx50}　{\fscx}今回だけね{\fscx50}　{\fscx}
+Dialogue: 0,0:00:58.89,0:01:01.17,JP - Top,,0,0,0,,{\3c&H969F1C&\blur3}そっちも悪よの
+Dialogue: 0,0:01:03.05,0:01:04.51,JP - Top,,0,0,0,,{\3c&H969F1C&\blur3}饅頭じゃん
+Dialogue: 0,0:00:49.62,0:00:53.72,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}ほら{\fscx50}　{\fscx0} {\fscx50}　{\fscx}こんなことだと思ったんですよ{\fscx50}　{\fscx}
+Dialogue: 0,0:00:58.09,0:01:02.35,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}聞きました{\fscx50}　{\fscx0} {\fscx50}　{\fscx}隠蔽{\fscx50}　{\fscx0} {\fscx50}　{\fscx}幽霊が隠蔽しましたよ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:06.28,0:01:09.14,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}幽霊見つけた{\fscx50}　{\fscx0} {\fscx50}　{\fscx}戻すか{\fscx50}　{\fscx}
+Dialogue: 0,0:01:09.14,0:01:11.31,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}いえ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}なんでもないです{\fscx50}　{\fscx}
+Dialogue: 0,0:01:11.31,0:01:15.16,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}ほら{\fscx50}　{\fscx0} {\fscx50}　{\fscx}お客さん{\fscx50}　{\fscx0} {\fscx50}　{\fscx}これがトリートメントの効果ですわ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:15.16,0:01:17.07,JP - Top,,0,0,0,,{\3c&H4039D1&\blur3}すべすべですね
+Dialogue: 0,0:01:17.07,0:01:19.86,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}どうですか{\fscx50}　{\fscx0} {\fscx50}　{\fscx}お買い求めになりますか{\fscx50}　{\fscx}
+Dialogue: 0,0:01:19.86,0:01:22.71,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}いえ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}いつもはいらないかなと思います{\fscx50}　{\fscx}
+Dialogue: 0,0:01:22.71,0:01:23.78,JP - Top,,0,0,0,,{\3c&H4039D1&\blur3}なんでだよ
+Dialogue: 0,0:01:15.15,0:01:17.07,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}何やってんだお前ら
+Dialogue: 0,0:01:17.07,0:01:18.80,JP,,0,0,0,,{\3c&HEE922A&\blur3}何に見えるんですか
+Dialogue: 0,0:01:18.80,0:01:21.53,JP,,0,0,0,,{\3c&HEE922A&\blur3}髪といてもらってるだけですよ
+Dialogue: 0,0:01:24.32,0:01:25.83,JP,,0,0,0,,{\3c&HEE922A&\blur3}なんですこれ
+Dialogue: 0,0:01:25.83,0:01:26.62,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}どれ
+Dialogue: 0,0:01:26.62,0:01:28.37,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}ここ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ここ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:28.37,0:01:29.91,JP - Top,,0,0,0,,{\3c&H68567A&\blur3}ナイスバルク
+Dialogue: 0,0:01:30.63,0:01:32.03,JP - Top,,0,0,0,,{\3c&H68567A&\blur3}チョモランマ
+Dialogue: 0,0:01:32.03,0:01:34.95,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H68567A&\blur3}はい{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ズドーン{\fscx50}　{\fscx}
+Dialogue: 0,0:01:31.44,0:01:32.99,JP,,0,0,0,,{\3c&HEE922A&\blur3}カメラ見てますよ
+Dialogue: 0,0:01:32.99,0:01:33.90,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}バレてんな
+Dialogue: 0,0:01:33.90,0:01:36.13,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}次だ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}次{\fscx50}　{\fscx0} {\fscx50}　{\fscx}次{\fscx50}　{\fscx}
+Dialogue: 0,0:01:38.22,0:01:39.80,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}なんとか…{\fscx50}　{\fscx0} {\fscx50}　{\fscx}また太ったか{\fscx50}　{\fscx}
+Dialogue: 0,0:01:39.80,0:01:41.09,JP,,0,0,0,,{\3c&HEE922A&\blur3}殺しですか
+Dialogue: 0,0:01:41.09,0:01:42.84,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}アホ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}よく見ろ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:42.84,0:01:44.30,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}あっ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ミズキさん{\fscx50}　{\fscx}
+Dialogue: 0,0:01:44.30,0:01:45.39,JP,,0,0,0,,{\3c&H68567A&\blur3}どうした
+Dialogue: 0,0:01:45.39,0:01:49.23,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}苦情だ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}店先に死体が転がってるってな{\fscx50}　{\fscx}
+Dialogue: 0,0:01:49.23,0:01:52.74,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}まだ死なねぇわ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}20{\fscx25}　{\fscx}代らぞ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:52.74,0:01:56.52,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}お前らこそ何歳だ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ウォールナット{\fscx50}　{\fscx}
+Dialogue: 0,0:01:56.52,0:01:59.75,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}黙れ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}もうこいつ撃ち殺せ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:59.75,0:02:02.67,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H68567A&\blur3}騒ぐな{\fscx50}　{\fscx0} {\fscx50}　{\fscx}夜中だぞ{\fscx50}　{\fscx}
+Dialogue: 0,0:02:02.67,0:02:05.36,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}そこらにリコリスいないか
+Dialogue: 0,0:02:05.36,0:02:06.41,JP,,0,0,0,,{\3c&HEE922A&\blur3}見ました？
+Dialogue: 0,0:02:06.41,0:02:08.12,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}見た{\fscx50}　{\fscx0} {\fscx50}　{\fscx}なんか映った{\fscx50}　{\fscx}
+Dialogue: 0,0:02:08.91,0:02:10.58,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}ちょっと{\fscx50}　{\fscx0} {\fscx50}　{\fscx}他のカメラも{\fscx50}　{\fscx}
+Dialogue: 0,0:02:47.62,0:02:49.40,JP,,0,0,0,,{\3c&H68567A&\blur3}飲んじゃった
+Dialogue: 0,0:02:51.15,0:02:53.39,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H68567A&\blur3}たきな{\fscx50}　{\fscx0} {\fscx50}　{\fscx}まま… 待て待て{\fscx50}　{\fscx}
+Dialogue: 0,0:02:53.39,0:02:54.80,JP,,0,0,0,,{\3c&H68567A&\blur3}わ… 私たちだ
+Dialogue: 0,0:02:54.80,0:02:57.03,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}そう{\fscx50}　{\fscx0} {\fscx50}　{\fscx}見て{\fscx50}　{\fscx0} {\fscx50}　{\fscx}プラカード{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ほら{\fscx50}　{\fscx}
+Dialogue: 0,0:02:57.03,0:02:59.03,JP,,0,0,0,,{\3c&HEE922A&\blur3}ド… ドッキリ？
+Dialogue: 0,0:02:59.03,0:03:01.25,JP,,0,0,0,,{\3c&H4039D1&\blur3}そ… そうそうそうそう
+Dialogue: 0,0:03:01.25,0:03:03.22,JP,,0,0,0,,{\3c&HEE922A&\blur3}死ぬかと思いましたよ
+Dialogue: 0,0:03:03.22,0:03:04.70,JP,,0,0,0,,{\3c&H4039D1&\blur3}こっちのセリフなんだけど
+Dialogue: 0,0:03:04.70,0:03:06.57,JP,,0,0,0,,{\3c&H68567A&\blur3}ちょっと腰が
+Dialogue: 0,0:03:07.25,0:03:08.31,JP,,0,0,0,,{\3c&H68567A&\blur3}打ったかな
+Dialogue: 0,0:03:08.31,0:03:11.98,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}いや{\fscx50}　{\fscx0} {\fscx50}　{\fscx}たきな驚かすのにはいつも命がけだわ{\fscx50}　{\fscx}
+Dialogue: 0,0:03:11.98,0:03:14.42,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}でも{\fscx50}　{\fscx0} {\fscx50}　{\fscx}いい声聞けたわ{\fscx50}　{\fscx}
+Dialogue: 0,0:03:17.99,0:03:21.27,JP,,0,0,0,,{\3c&H68567A&\blur3}心霊現象を信じない者の声じゃなかったな
+Dialogue: 0,0:03:21.27,0:03:24.19,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}ね{\fscx50}　{\fscx0} {\fscx50}　{\fscx}霊はいるんだよ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}たきな{\fscx50}　{\fscx}
+Dialogue: 0,0:03:24.19,0:03:27.15,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}いいから{\fscx50}　{\fscx0} {\fscx50}　{\fscx}酒代と食器代{\fscx50}　{\fscx0} {\fscx50}　{\fscx}置いてってください{\fscx50}　{\fscx}
+Dialogue: 0,0:03:29.15,0:03:30.89,JP,,0,0,0,,{\3c&HEE922A&\blur3}もういい
+Dialogue: 0,0:03:30.89,0:03:33.03,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}で{\fscx50}　{\fscx0} {\fscx50}　{\fscx}クルミはどこ行った{\fscx50}　{\fscx}
+Dialogue: 0,0:03:33.03,0:03:35.19,JP,,0,0,0,,{\3c&H68567A&\blur3}朝出てってまだ帰ってないな
+Dialogue: 0,0:03:35.90,0:03:39.36,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}じゃあ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}今のは{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ずっと一緒にいたじゃないですか{\fscx50}　{\fscx}
+Dialogue: 0,0:03:39.36,0:03:40.58,JP,,0,0,0,,{\3c&H4039D1&\blur3}誰が？
+Dialogue: 0,0:03:40.58,0:03:41.53,JP,,0,0,0,,{\3c&HEE922A&\blur3}クルミが
+Dialogue: 0,0:03:42.07,0:03:43.32,JP,,0,0,0,,{\3c&HEE922A&\blur3}い… いましたよ
+Dialogue: 0,0:03:43.32,0:03:44.79,JP,,0,0,0,,{\3c&H4039D1&\blur3}い… いないけど
+Dialogue: 0,0:03:44.79,0:03:46.19,JP,,0,0,0,,{\3c&HEE922A&\blur3}い… いましたよね
+Dialogue: 0,0:03:46.19,0:03:46.76,JP,,0,0,0,,{\3c&H4039D1&\blur3}どこに
+Dialogue: 0,0:03:46.76,0:03:48.93,JP,,0,600,0,,{\3c&H68567A&\blur3}おいおい
+Dialogue: 0,0:03:47.43,0:03:48.93,JP,,600,0,0,,{\3c&HEE922A&\blur3}私と一緒に
+Dialogue: 0,0:03:48.93,0:03:50.12,JP,,0,0,0,,{\3c&H4039D1&\blur3}いないけど
+Dialogue: 0,0:03:50.12,0:03:51.21,JP,,0,0,0,,{\3c&HEE922A&\blur3}いましたよ
+

@@ -1,0 +1,46 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:30 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 時軸：斧頭餅
+Dialogue: 0,0:00:02.00,0:00:03.88,Text,,0,0,0,,貓貓的獨語
+Dialogue: 0,0:00:05.34,0:00:08.42,Text,,0,0,0,,哪個是偶然 哪個是必然呢
+Dialogue: 0,0:00:08.88,0:00:12.93,Text,,0,0,0,,我總覺得皇宮內又要發生不好的事情了
+Dialogue: 0,0:00:15.72,0:00:18.23,Text,,0,0,0,,這裡是貓貓的小知識
+Dialogue: 0,0:00:18.73,0:00:22.36,Text,,0,0,0,,黃色曼茶羅華的花語是虛假的魅力
+Dialogue: 0,0:00:23.19,0:00:25.07,Text,,0,0,0,,雖然外表非常美麗
+Dialogue: 0,0:00:25.36,0:00:29.24,Text,,0,0,0,,花 葉子 根部都有很強的毒性
+Dialogue: 0,0:00:33.95,0:00:37.45,Text,,0,0,0,,每一個看起來都充滿了魅力
+Dialogue: 0,0:00:38.14,0:00:41.54,Text,,0,0,0,,一旦懷疑起來就會覺得他們都很可疑
+Dialogue: 0,0:00:44.17,0:00:47.21,Text,,0,0,0,,貓貓 找到你了 找到你了
+Dialogue: 0,0:00:47.24,0:00:49.38,Text,,0,0,0,,小蘭 你為什麼會在這裡
+Dialogue: 0,0:00:49.63,0:00:52.18,Text,,0,0,0,,你沒事吧 沒被做什麼吧
+Dialogue: 0,0:00:53.05,0:00:54.22,Text,,0,0,0,,你是指什麼
+Dialogue: 0,0:00:54.51,0:00:57.97,Text,,0,0,0,,我聽說皇宮內有變態侍女出沒
+Dialogue: 0,0:00:58.47,0:00:59.60,Text,,0,0,0,,她會跟在人的後面
+Dialogue: 0,0:00:59.62,0:01:03.19,Text,,0,0,0,,好像會突然聞你衣服的味道
+Dialogue: 0,0:01:03.40,0:01:04.56,Text,,0,0,0,,變態侍女
+Dialogue: 0,0:01:06.77,0:01:11.53,Text,,0,0,0,,果然 我就知道貓貓你還不知道呢
+Dialogue: 0,0:01:11.55,0:01:14.12,Text,,0,0,0,,擔心得不行就來找你了
+Dialogue: 0,0:01:14.37,0:01:17.29,Text,,0,0,0,,你不擔心你自己嗎
+Dialogue: 0,0:01:18.37,0:01:23.00,Text,,0,0,0,,說起來 壬氏大人好像說過他會負責處理這件事
+Dialogue: 0,0:01:23.08,0:01:27.25,Text,,0,0,0,,真的嗎 真是太好了
+Dialogue: 0,0:01:27.59,0:01:32.01,Text,,0,0,0,,我記得蘭花的花語是純粹 清純
+Dialogue: 0,0:01:32.51,0:01:35.01,Text,,0,0,0,,小蘭 這名字跟你很配
+Dialogue: 0,0:01:35.51,0:01:38.01,Text,,0,0,0,,你突然間這是怎麼了
+Dialogue: 0,0:01:38.81,0:01:40.81,Text,,0,0,0,,下集 冬人夏草
+Dialogue: 0,0:01:40.85,0:01:46.44,Text,,0,0,0,,咦 這個字 我以前好像練寫過
+Dialogue: 0,0:01:47.65,0:01:48.87,Text,,0,0,0,,敬請期待

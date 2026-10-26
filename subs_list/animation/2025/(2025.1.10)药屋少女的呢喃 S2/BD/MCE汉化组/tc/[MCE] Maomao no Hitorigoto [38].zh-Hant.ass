@@ -1,0 +1,50 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:44 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:01.87,0:00:03.46,Text,,0,0,0,,貓貓的獨語
+Dialogue: 0,0:00:05.68,0:00:08.63,Text,,0,0,0,,貓貓 貓貓
+Dialogue: 0,0:00:09.59,0:00:12.60,Text,,0,0,0,,有什麼事嗎 壬氏大人
+Dialogue: 0,0:00:13.15,0:00:16.64,Text,,0,0,0,,明明只是被叫名字 但卻只有違和感
+Dialogue: 0,0:00:16.87,0:00:18.23,Text,,0,0,0,,你在這裡啊
+Dialogue: 0,0:00:18.99,0:00:21.60,Text,,0,0,0,,金剛宮的那件事 你做得不錯
+Dialogue: 0,0:00:21.77,0:00:23.31,Text,,0,0,0,,您過獎了
+Dialogue: 0,0:00:24.02,0:00:29.24,Text,,0,0,0,,應該是好好收拾了一頓前宮女主管的壬氏大人比較厲害吧
+Dialogue: 0,0:00:29.60,0:00:34.37,Text,,0,0,0,,話說回來 那個魔鏡真是個奇妙的東西
+Dialogue: 0,0:00:36.32,0:00:38.83,Text,,0,0,0,,這裡是貓貓的小知識
+Dialogue: 0,0:00:39.62,0:00:44.17,Text,,0,0,0,,如果將投影在銅鏡背面的畫像雕刻到鏡子厚度的極限時
+Dialogue: 0,0:00:44.25,0:00:46.09,Text,,0,0,0,,表面就會凹凸不平
+Dialogue: 0,0:00:46.67,0:00:49.09,Text,,0,0,0,,讓光在凹凸面進行反射的話
+Dialogue: 0,0:00:49.17,0:00:51.68,Text,,0,0,0,,就會浮現出在背面刻畫的畫像
+Dialogue: 0,0:00:51.97,0:00:55.35,Text,,0,0,0,,是擁有高超的技術和毅力才能製作的物品
+Dialogue: 0,0:00:58.39,0:01:00.72,Text,,0,0,0,,在信仰上被當成異端的人
+Dialogue: 0,0:01:00.75,0:01:04.69,Text,,0,0,0,,把自己的教祖刻上去隱秘攜帶的事情倒是也有所耳聞
+Dialogue: 0,0:01:04.86,0:01:09.28,Text,,0,0,0,,哦？有秘密的人所做的努力還真是令人驚訝
+Dialogue: 0,0:01:10.19,0:01:15.58,Text,,0,0,0,,說起秘密 壬氏大人是怎麼通過觸診的？
+Dialogue: 0,0:01:18.93,0:01:20.16,Text,,0,0,0,,有什麼事嗎？
+Dialogue: 0,0:01:20.96,0:01:24.13,Text,,0,0,0,,嗯…在這等美貌面前
+Dialogue: 0,0:01:24.16,0:01:26.29,Text,,0,0,0,,青蛙存在與否也變成枝微末節了
+Dialogue: 0,0:01:26.50,0:01:31.72,Text,,0,0,0,,果然他和負責觸診的三個官員身上都有秘密
+Dialogue: 0,0:01:32.38,0:01:34.72,Text,,0,0,0,,（盯）
+Dialogue: 0,0:01:35.09,0:01:38.72,Text,,0,0,0,,怎麼了 你要是有想說的話就直說出來
+Dialogue: 0,0:01:39.39,0:01:41.56,Text,,0,0,0,,沒什麼 我告辭了
+Dialogue: 0,0:01:41.73,0:01:44.40,Text,,0,0,0,,什麼時候會發展成麻煩事都不奇怪
+Dialogue: 0,0:01:44.69,0:01:47.32,Text,,0,0,0,,果然還是多做點麻藥吧
+Dialogue: 0,0:01:47.50,0:01:50.19,Text,,0,0,0,,麻藥？喂 你在說什麼啊
+Dialogue: 0,0:01:50.40,0:01:51.82,Text,,0,0,0,,等等 貓貓
+Dialogue: 0,0:01:52.51,0:01:54.28,Text,,0,0,0,,下集 冰糕
+Dialogue: 0,0:01:54.70,0:01:57.20,Text,,0,0,0,,小蘭被逼上絕境了

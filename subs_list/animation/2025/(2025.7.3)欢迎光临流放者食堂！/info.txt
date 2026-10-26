@@ -1,0 +1,5 @@
+chs: 欢迎光临流放者食堂！/欢迎来到颠沛流离食堂！
+cht: 歡迎光臨流放者食堂！/歡迎來到顛沛流離食堂！
+jp: 追放者食堂へようこそ！
+en: Welcome to the Outcast's Restaurant!
+rome: Tsuihousha Shokudou e Youkoso!

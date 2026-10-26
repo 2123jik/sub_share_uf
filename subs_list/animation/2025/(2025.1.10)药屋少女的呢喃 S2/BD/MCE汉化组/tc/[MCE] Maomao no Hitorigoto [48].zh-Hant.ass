@@ -1,0 +1,44 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:52 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:02.11,0:00:04.05,Text,,0,0,0,,貓貓的獨語
+Dialogue: 0,0:00:06.16,0:00:08.59,Text,,0,0,0,,子式一族在要塞的那件事
+Dialogue: 0,0:00:08.88,0:00:12.93,Text,,0,0,0,,現在回想起來 真是一瞬間的事
+Dialogue: 0,0:00:14.14,0:00:19.60,Text,,0,0,0,,大家都把思緒藏在心裡 戴著面具嗎？
+Dialogue: 0,0:00:21.12,0:00:22.73,Text,,0,0,0,,貓貓 貓貓
+Dialogue: 0,0:00:23.31,0:00:25.07,Text,,0,0,0,,你醒了啊 壬氏大人
+Dialogue: 0,0:00:26.51,0:00:30.24,Text,,0,0,0,,太好了 我還以為你又不見了
+Dialogue: 0,0:00:30.49,0:00:32.87,Text,,0,0,0,,因為膝枕對腿部的血液循環不好
+Dialogue: 0,0:00:33.32,0:00:36.33,Text,,0,0,0,,我可不記得有允許你離開我的身邊了
+Dialogue: 0,0:00:37.47,0:00:41.08,Text,,0,0,0,,這個變態宦官 或者說變態皇弟
+Dialogue: 0,0:00:42.57,0:00:45.25,Text,,0,0,0,,說起面具 這個人也
+Dialogue: 0,0:00:47.42,0:00:49.20,Text,,0,0,0,,真是出類拔萃
+Dialogue: 0,0:00:49.56,0:00:53.39,Text,,0,0,0,,擁有不輸給狸貓和狐狸的變化能力
+Dialogue: 0,0:00:57.03,0:00:59.85,Text,,0,0,0,,你要是想說什麼的話就趕緊說明白
+Dialogue: 0,0:01:00.04,0:01:04.56,Text,,0,0,0,,沒有 我就是覺得壬氏大人真是個多面的人
+Dialogue: 0,0:01:07.38,0:01:09.82,Text,,0,0,0,,但是 那個也已經結束了
+Dialogue: 0,0:01:11.18,0:01:13.28,Text,,0,0,0,,既然被你知道了真實身份
+Dialogue: 0,0:01:13.53,0:01:16.99,Text,,0,0,0,,我就沒必要在你面前戴面具了
+Dialogue: 0,0:01:17.54,0:01:21.29,Text,,0,0,0,,換句話說 我們已經是沒有秘密的關係了
+Dialogue: 0,0:01:21.58,0:01:24.58,Text,,0,0,0,,不好…不好不好不好
+Dialogue: 0,0:01:24.72,0:01:26.39,Text,,0,0,0,,明明在皇宮的工作已經結束了
+Dialogue: 0,0:01:26.42,0:01:28.38,Text,,0,0,0,,我又有種不好的預感
+Dialogue: 0,0:01:28.80,0:01:33.26,Text,,0,0,0,,話說回來 我們被人打擾的事情的後續
+Dialogue: 0,0:01:33.49,0:01:35.14,Text,,0,0,0,,不繼續嗎
+Dialogue: 0,0:01:37.97,0:01:40.31,Text,,0,0,0,,喂 等等 貓貓
+Dialogue: 0,0:01:42.92,0:01:46.15,Text,,0,0,0,,完 期待與您再會

@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.11,0:00:04.05,Text,,0,0,0,,高顺的独语
+Dialogue: 0,0:00:07.30,0:00:11.64,Text,,0,0,0,,壬氏大人 什么时候才会跟小猫说清楚呢？
+Dialogue: 0,0:00:12.60,0:00:15.60,Text,,0,0,0,,今天马闪差点就说漏嘴了
+Dialogue: 0,0:00:16.20,0:00:18.84,Text,,0,0,0,,就算是隐瞒也有极限
+Dialogue: 0,0:00:19.41,0:00:21.73,Text,,0,0,0,,一旦被小猫发现的话
+Dialogue: 0,0:00:21.77,0:00:23.73,Text,,0,0,0,,找我有什么事吗？
+Dialogue: 0,0:00:24.77,0:00:28.53,Text,,0,0,0,,没什么 我只是在自言自语 料理怎么样？
+Dialogue: 0,0:00:29.07,0:00:31.20,Text,,0,0,0,,真的非常美味
+Dialogue: 0,0:00:32.49,0:00:36.04,Text,,0,0,0,,说起来 为什么会有甲鱼料理呢？
+Dialogue: 0,0:00:38.19,0:00:40.54,Text,,0,0,0,,这里是猫猫的小知识
+Dialogue: 0,0:00:40.92,0:00:43.84,Text,,0,0,0,,甲鱼被称为行走的中药
+Dialogue: 0,0:00:44.92,0:00:47.26,Text,,0,0,0,,有滋养强壮身体的效果
+Dialogue: 0,0:00:47.46,0:00:50.09,Text,,0,0,0,,也被当成男人的精力剂食用
+Dialogue: 0,0:00:54.10,0:00:57.18,Text,,0,0,0,,身为宦官的壬氏大人为什么会吃…
+Dialogue: 0,0:00:58.86,0:01:02.85,Text,,0,0,0,,应该是为了补充明天的狩猎活动需要的营养吧
+Dialogue: 0,0:01:03.87,0:01:06.55,Text,,0,0,0,,还有其它难以理解的地方
+Dialogue: 0,0:01:06.58,0:01:07.48,Text,,0,0,0,,“紧张”
+Dialogue: 0,0:01:08.07,0:01:11.57,Text,,0,0,0,,月亮 假名 难道说
+Dialogue: 0,0:01:11.78,0:01:12.91,Text,,0,0,0,,“心跳不停”
+Dialogue: 0,0:01:14.18,0:01:15.12,Text,,0,0,0,,原来如此
+Dialogue: 0,0:01:15.49,0:01:16.66,Text,,0,0,0,,暴露了吗？
+Dialogue: 0,0:01:18.33,0:01:20.00,Text,,0,0,0,,原来是这么回事啊
+Dialogue: 0,0:01:20.03,0:01:21.00,Text,,0,0,0,,什么
+Dialogue: 0,0:01:21.24,0:01:25.84,Text,,0,0,0,,我听说过甲鱼可以美容和保湿
+Dialogue: 0,0:01:26.45,0:01:32.13,Text,,0,0,0,,应该是子昌大人希望他在远征的地方也可以保持美貌吧
+Dialogue: 0,0:01:32.63,0:01:38.39,Text,,0,0,0,,难道子昌大人不知道他是皇帝身边的宦官还盯上他了
+Dialogue: 0,0:01:40.98,0:01:45.27,Text,,0,0,0,,赶紧把真相告诉她吧
+Dialogue: 0,0:01:46.52,0:01:48.73,Text,,0,0,0,,下集 华瑞月
+Dialogue: 0,0:01:49.82,0:01:51.53,Text,,0,0,0,,壬氏大人终于
+Dialogue: 0,0:01:51.90,0:01:53.28,Text,,0,0,0,,敬请见证

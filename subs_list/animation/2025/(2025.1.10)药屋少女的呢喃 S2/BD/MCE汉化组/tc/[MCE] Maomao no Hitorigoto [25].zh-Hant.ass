@@ -1,0 +1,44 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:29 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 時軸：L.C.
+Dialogue: 0,0:00:02.06,0:00:03.34,Text,,0,0,0,,貓貓的獨語
+Dialogue: 0,0:00:08.17,0:00:11.22,Text,,0,0,0,,春天真是開始的季節啊
+Dialogue: 0,0:00:12.48,0:00:16.14,Text,,0,0,0,,小蘭還有鈴麗公主也開始挑戰新的事情了
+Dialogue: 0,0:00:20.24,0:00:23.48,Text,,0,0,0,,我也要重新開始做生意了
+Dialogue: 0,0:00:24.05,0:00:26.86,Text,,0,0,0,,但是藥物都被沒收了真是讓我傷心啊
+Dialogue: 0,0:00:27.54,0:00:31.66,Text,,0,0,0,,喂 去哪裡了 都去哪裡了
+Dialogue: 0,0:00:32.65,0:00:33.53,Text,,0,0,0,,壬氏大人
+Dialogue: 0,0:00:34.08,0:00:35.45,Text,,0,0,0,,你在找什麼
+Dialogue: 0,0:00:35.74,0:00:38.33,Text,,0,0,0,,嚇我一跳 藥師
+Dialogue: 0,0:00:40.52,0:00:43.38,Text,,0,0,0,,你找小貓的話 它出去散步了
+Dialogue: 0,0:00:43.67,0:00:45.46,Text,,0,0,0,,是 是嗎
+Dialogue: 0,0:00:45.85,0:00:50.48,Text,,0,0,0,,壬氏大人終於也加入貓咪狂熱分子隊伍了嗎
+Dialogue: 0,0:00:50.50,0:00:55.56,Text,,0,0,0,,才不是呢 我只是聽說三花貓可以帶來好運
+Dialogue: 0,0:00:57.43,0:00:59.39,Text,,0,0,0,,這裡給大家講解一下貓貓的小知識
+Dialogue: 0,0:01:00.51,0:01:03.98,Text,,0,0,0,,有的國家把三花貓當成很吉利的貓
+Dialogue: 0,0:01:05.04,0:01:07.40,Text,,0,0,0,,自色招福 黑色可以趕走厄運
+Dialogue: 0,0:01:07.92,0:01:10.40,Text,,0,0,0,,茶色則象徵著無病無災
+Dialogue: 0,0:01:13.92,0:01:16.41,Text,,0,0,0,,說起來綠青館裡的姐姐們也說
+Dialogue: 0,0:01:16.50,0:01:20.79,Text,,0,0,0,,貓的鬍子可以帶來財運和戀愛運
+Dialogue: 0,0:01:23.65,0:01:25.59,Text,,0,0,0,,三花貓的鬍子 可以的
+Dialogue: 0,0:01:26.67,0:01:30.01,Text,,0,0,0,,如果當成護身符售賣的話 可能會招來很多人
+Dialogue: 0,0:01:31.92,0:01:35.26,Text,,0,0,0,,藥師 你的表情不太對勁
+Dialogue: 0,0:01:36.67,0:01:39.52,Text,,0,0,0,,去哪裡了 快出來
+Dialogue: 0,0:01:40.07,0:01:42.98,Text,,0,0,0,,那傢伙還是一如既往地不聽別人說話
+Dialogue: 0,0:01:44.98,0:01:46.61,Text,,0,0,0,,下集 商隊
+Dialogue: 0,0:01:47.88,0:01:50.15,Text,,0,0,0,,再次逼近皇宮的影子

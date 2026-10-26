@@ -1,0 +1,49 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:48 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:02.13,0:00:04.05,Text,,0,0,0,,翠苓的獨語
+Dialogue: 0,0:00:06.99,0:00:09.05,Text,,0,0,0,,翠苓的小知識
+Dialogue: 0,0:00:09.93,0:00:13.85,Text,,0,0,0,,身體在毒藥的影響下會被麻痺
+Dialogue: 0,0:00:14.47,0:00:15.85,Text,,0,0,0,,活動身體時
+Dialogue: 0,0:00:15.99,0:00:18.94,Text,,0,0,0,,神經利用電流對各身體部位發出指令
+Dialogue: 0,0:00:19.48,0:00:23.06,Text,,0,0,0,,但是毒能阻斷這種電流的傳遞
+Dialogue: 0,0:00:23.18,0:00:26.03,Text,,0,0,0,,從而起到抑制神經正常活動的作用
+Dialogue: 0,0:00:29.03,0:00:32.78,Text,,0,0,0,,能順利看完昨天的慶典真是太好了
+Dialogue: 0,0:00:33.86,0:00:35.66,Text,,0,0,0,,真的太好了
+Dialogue: 0,0:00:36.56,0:00:38.66,Text,,0,0,0,,子翠 你看到那傢伙了嗎
+Dialogue: 0,0:00:39.33,0:00:41.83,Text,,0,0,0,,那傢伙 你是說貓貓嗎？
+Dialogue: 0,0:00:43.46,0:00:45.34,Text,,0,0,0,,我到底該怎麼做
+Dialogue: 0,0:00:47.02,0:00:48.09,Text,,0,0,0,,翠苓大人
+Dialogue: 0,0:00:48.80,0:00:50.09,Text,,0,0,0,,翠苓大人？！
+Dialogue: 0,0:00:50.68,0:00:52.84,Text,,0,0,0,,今天我的身體也沒有任何異樣
+Dialogue: 0,0:00:54.22,0:00:56.56,Text,,0,0,0,,怎麼天晚上睡得也非常很好
+Dialogue: 0,0:00:56.93,0:00:58.27,Text,,0,0,0,,這 這樣啊
+Dialogue: 0,0:00:58.64,0:01:02.31,Text,,0,0,0,,還在室內進行了適當的運動 飯菜也一掃而光
+Dialogue: 0,0:01:02.34,0:01:03.94,Text,,0,0,0,,我現在簡直就是健康的化身！
+Dialogue: 0,0:01:04.69,0:01:07.65,Text,,0,0,0,,這傢伙的腦子是不是不正常了
+Dialogue: 0,0:01:08.23,0:01:10.11,Text,,0,0,0,,我覺得應該不是
+Dialogue: 0,0:01:10.36,0:01:14.82,Text,,0,0,0,,應該是還沒有放棄想成為甦醒之藥的實驗體吧
+Dialogue: 0,0:01:16.66,0:01:19.70,Text,,0,0,0,,你就不怕副作用嗎
+Dialogue: 0,0:01:20.50,0:01:24.58,Text,,0,0,0,,靈丹妙藥的誕生往往伴隨著犧牲
+Dialogue: 0,0:01:27.59,0:01:29.13,Text,,0,0,0,,你的左手怎麼也
+Dialogue: 0,0:01:30.84,0:01:33.84,Text,,0,0,0,,你這顯眼的蕁麻疹又是試了什麼毒
+Dialogue: 0,0:01:34.11,0:01:35.85,Text,,0,0,0,,這個啊
+Dialogue: 0,0:01:36.01,0:01:38.39,Text,,0,0,0,,如此如此 這般這般
+Dialogue: 0,0:01:38.85,0:01:39.72,Text,,0,0,0,,懶得管了
+Dialogue: 0,0:01:40.81,0:01:42.60,Text,,0,0,0,,下集 堡壘
+Dialogue: 0,0:01:42.92,0:01:45.44,Text,,0,0,0,,下次我又會被帶到什麼地方呢

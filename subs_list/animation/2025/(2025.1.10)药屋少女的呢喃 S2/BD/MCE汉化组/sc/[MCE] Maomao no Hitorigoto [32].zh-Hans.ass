@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:01.71,0:00:03.75,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:06.79,0:00:09.59,Text,,0,0,0,,子翠的小知识
+Dialogue: 0,0:00:10.62,0:00:15.64,Text,,0,0,0,,铃虫是通过摩擦被称为翅脉的翅膀之脉发出的声音
+Dialogue: 0,0:00:16.14,0:00:18.77,Text,,0,0,0,,右边翅膀有锉刀形的脉络
+Dialogue: 0,0:00:19.02,0:00:22.19,Text,,0,0,0,,左边翅膀则有突起形的脉络
+Dialogue: 0,0:00:26.73,0:00:29.78,Text,,0,0,0,,子翠你真的对虫子很了解啊
+Dialogue: 0,0:00:30.03,0:00:32.74,Text,,0,0,0,,因为它们真的非常可爱啊
+Dialogue: 0,0:00:33.37,0:00:35.95,Text,,0,0,0,,但是真令人困扰
+Dialogue: 0,0:00:35.98,0:00:37.83,Text,,0,0,0,,怎么了
+Dialogue: 0,0:00:38.07,0:00:40.37,Text,,0,0,0,,我想在房间养铃虫
+Dialogue: 0,0:00:40.54,0:00:43.21,Text,,0,0,0,,可是晚上叫起来的话会被人讨厌的
+Dialogue: 0,0:00:43.33,0:00:44.38,Text,,0,0,0,,原来如此
+Dialogue: 0,0:00:44.89,0:00:49.55,Text,,0,0,0,,我也因为在房间里放了太多的药草和调配器具被说了
+Dialogue: 0,0:00:51.97,0:00:54.64,Text,,0,0,0,,为什么这种魅力就无法传达给别人呢
+Dialogue: 0,0:00:56.39,0:01:00.14,Text,,0,0,0,,但是只要想到有人能明白我这种心情
+Dialogue: 0,0:01:00.17,0:01:02.27,Text,,0,0,0,,反而感觉稍微开心
+Dialogue: 0,0:01:02.77,0:01:05.27,Text,,0,0,0,,我们两个要是有什么事的话就互相帮助吧
+Dialogue: 0,0:01:06.07,0:01:08.57,Text,,0,0,0,,那我去准备搬家了
+Dialogue: 0,0:01:08.90,0:01:11.57,Text,,0,0,0,,搬家 你要搬到新的房间吗
+Dialogue: 0,0:01:12.36,0:01:14.12,Text,,0,0,0,,不过也就是个小杂物间
+Dialogue: 0,0:01:14.91,0:01:16.83,Text,,0,0,0,,杂物间？
+Dialogue: 0,0:01:19.55,0:01:23.25,Text,,0,0,0,,如果是杂物间的话就算吵一点应该也不会给别人添麻烦了
+Dialogue: 0,0:01:23.28,0:01:25.59,Text,,0,0,0,,而且潮乎乎的也应该挺适合虫子们居住
+Dialogue: 0,0:01:25.79,0:01:27.96,Text,,0,0,0,,可 可能吧
+Dialogue: 0,0:01:28.21,0:01:31.38,Text,,0,0,0,,我们刚刚约好了要互相帮助的吧
+Dialogue: 0,0:01:32.26,0:01:33.59,Text,,0,0,0,,麻烦带路吧
+Dialogue: 0,0:01:34.48,0:01:35.72,Text,,0,0,0,,出发！
+Dialogue: 0,0:01:39.22,0:01:40.68,Text,,0,0,0,,下集 先帝
+Dialogue: 0,0:01:41.25,0:01:45.84,Text,,0,0,0,,没有腐烂的的原因以及皇太后的诅咒的真相
+Dialogue: 0,0:01:45.87,0:01:47.34,Text,,0,0,0,,都将被揭开

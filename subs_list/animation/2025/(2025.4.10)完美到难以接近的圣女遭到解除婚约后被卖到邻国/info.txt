@@ -1,0 +1,5 @@
+﻿chs: 完美到难以接近的圣女遭到解除婚约后被卖到邻国/圣女因太过完美一点也不讨人喜欢而被废除婚约卖到邻国
+cht: 完美到難以接近的聖女遭到解除婚約後被賣到鄰國/聖女因太過完美一點也不討人喜歡而被廢除婚約賣到鄰國
+jp: 完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
+en: Kanpekiseijo
+rome: Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru

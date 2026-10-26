@@ -1,0 +1,43 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.13,0:00:04.05,Text,,0,0,0,,高顺的独语
+Dialogue: 0,0:00:07.42,0:00:09.63,Text,,0,0,0,,高顺的小知识
+Dialogue: 0,0:00:10.39,0:00:14.18,Text,,0,0,0,,侍奉掌权者的人会有各种各样的规矩
+Dialogue: 0,0:00:14.93,0:00:19.94,Text,,0,0,0,,但凡有一次和帝王共度良宵就不能离开皇宫
+Dialogue: 0,0:00:20.73,0:00:22.06,Text,,0,0,0,,但也有例外
+Dialogue: 0,0:00:22.22,0:00:25.38,Text,,0,0,0,,就是出于政治考量将女性赐给臣子
+Dialogue: 0,0:00:25.41,0:00:28.15,Text,,0,0,0,,或者作为赏赐的一种替代品
+Dialogue: 0,0:00:28.61,0:00:32.49,Text,,0,0,0,,但是这种情况一般只限于掌权者的女儿
+Dialogue: 0,0:00:36.20,0:00:38.79,Text,,0,0,0,,真是的 这是怎么回事
+Dialogue: 0,0:00:38.83,0:00:42.58,Text,,0,0,0,,不只是猫猫 可疑的宫女 还有宦官
+Dialogue: 0,0:00:42.61,0:00:44.54,Text,,0,0,0,,就连子昌都下落不明了
+Dialogue: 0,0:00:44.79,0:00:48.09,Text,,0,0,0,,甚至楼兰妃都参与其中
+Dialogue: 0,0:00:48.61,0:00:51.09,Text,,0,0,0,,暂且先等一下罗汉的报告吧
+Dialogue: 0,0:00:51.51,0:00:55.35,Text,,0,0,0,,到底是如何隐藏行踪潜入皇宫的
+Dialogue: 0,0:00:55.38,0:00:56.81,Text,,0,0,0,,目前调查中
+Dialogue: 0,0:00:57.18,0:01:00.98,Text,,0,0,0,,消失的宦官能通过触诊
+Dialogue: 0,0:01:01.15,0:01:03.90,Text,,0,0,0,,真实身份应该是女性
+Dialogue: 0,0:01:04.94,0:01:07.82,Text,,0,0,0,,居然装成宦官 气煞我也
+Dialogue: 0,0:01:11.49,0:01:13.41,Text,,0,0,0,,不 不像话
+Dialogue: 0,0:01:13.92,0:01:15.14,Text,,0,0,0,,楼兰也是
+Dialogue: 0,0:01:15.16,0:01:19.41,Text,,0,0,0,,不搞清楚自己的立场 居然让侍女当自己的替身
+Dialogue: 0,0:01:19.63,0:01:21.12,Text,,0,0,0,,无法无天
+Dialogue: 0,0:01:23.83,0:01:24.92,Text,,0,0,0,,不像话
+Dialogue: 0,0:01:25.67,0:01:27.84,Text,,0,0,0,,真是岂有此理
+Dialogue: 0,0:01:29.13,0:01:31.30,Text,,0,0,0,,下集 庆典
+Dialogue: 0,0:01:32.01,0:01:34.97,Text,,0,0,0,,小猫你一定要平安无事

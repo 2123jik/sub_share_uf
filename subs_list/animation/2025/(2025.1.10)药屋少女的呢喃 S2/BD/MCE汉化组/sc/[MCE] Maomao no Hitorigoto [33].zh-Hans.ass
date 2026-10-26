@@ -1,0 +1,44 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:01.63,0:00:03.75,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:05.55,0:00:09.93,Text,,0,0,0,,先帝遗体不腐的原因居然是雄黄
+Dialogue: 0,0:00:12.60,0:00:14.85,Text,,0,0,0,,这里给大家讲一下猫猫的小知识
+Dialogue: 0,0:00:15.56,0:00:19.52,Text,,0,0,0,,雄黄中的砒霜是无色无味的毒物
+Dialogue: 0,0:00:20.15,0:00:23.36,Text,,0,0,0,,人一旦中毒就会产生肌肉无力、贫血等症状
+Dialogue: 0,0:00:23.86,0:00:28.27,Text,,0,0,0,,还能杀死促进尸体腐烂的细菌和微生物
+Dialogue: 0,0:00:28.30,0:00:30.24,Text,,0,0,0,,有防腐作用
+Dialogue: 0,0:00:34.33,0:00:37.83,Text,,0,0,0,,不过 居然把那么大一幅画藏在墙里
+Dialogue: 0,0:00:39.01,0:00:42.67,Text,,0,0,0,,药师 这次的工作也辛苦你了
+Dialogue: 0,0:00:42.96,0:00:43.92,Text,,0,0,0,,不敢当
+Dialogue: 0,0:00:44.38,0:00:46.38,Text,,0,0,0,,我听水莲说了
+Dialogue: 0,0:00:46.40,0:00:50.26,Text,,0,0,0,,好像是你找到了雄黄的碎片
+Dialogue: 0,0:00:50.29,0:00:55.18,Text,,0,0,0,,是的 我是从放有木刻人偶和玩具手球的箱子里找到的
+Dialogue: 0,0:00:55.42,0:00:56.85,Text,,0,0,0,,木刻人偶？
+Dialogue: 0,0:00:58.71,0:01:04.40,Text,,0,0,0,,果然不把喜欢的东西隐藏好 就会被他人隐藏起来吗
+Dialogue: 0,0:01:04.99,0:01:09.99,Text,,0,0,0,,是啊 我也是不想让别人抢走冬虫夏草和熊胆
+Dialogue: 0,0:01:10.03,0:01:11.70,Text,,0,0,0,,才用心藏好的
+Dialogue: 0,0:01:11.89,0:01:13.82,Text,,0,0,0,,应该没有人会抢的吧
+Dialogue: 0,0:01:14.53,0:01:15.52,Text,,0,0,0,,不管怎么说
+Dialogue: 0,0:01:15.55,0:01:19.25,Text,,0,0,0,,壬氏大人也把自己喜爱的东西藏起来才是上策
+Dialogue: 0,0:01:19.47,0:01:22.79,Text,,0,0,0,,喜…喜欢的物件啊
+Dialogue: 0,0:01:23.67,0:01:25.92,Text,,0,0,0,,我脸上是沾了什么东西吗
+Dialogue: 0,0:01:26.07,0:01:28.13,Text,,0,0,0,,没…没什么
+Dialogue: 0,0:01:29.38,0:01:32.59,Text,,0,0,0,,真是的 这怎么藏啊
+Dialogue: 0,0:01:35.14,0:01:36.85,Text,,0,0,0,,下集 怪谈
+Dialogue: 0,0:01:37.68,0:01:40.43,Text,,0,0,0,,事实比小说还奇特
+Dialogue: 0,0:01:41.44,0:01:42.81,Text,,0,0,0,,敬请期待

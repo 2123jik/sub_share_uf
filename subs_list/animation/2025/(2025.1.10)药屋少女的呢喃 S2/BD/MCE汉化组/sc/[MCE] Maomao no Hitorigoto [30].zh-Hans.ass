@@ -1,0 +1,52 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:01.88,0:00:04.17,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:05.63,0:00:07.05,Text,,0,0,0,,（猫猫崇崇）
+Dialogue: 0,0:00:07.98,0:00:10.64,Text,,0,0,0,,小猫 你在找什么东西吗
+Dialogue: 0,0:00:10.76,0:00:13.76,Text,,0,0,0,,高顺大人 没 没什么
+Dialogue: 0,0:00:14.01,0:00:15.77,Text,,0,0,0,,你的伤口怎么样了
+Dialogue: 0,0:00:16.16,0:00:20.19,Text,,0,0,0,,不用担心 已经长好了
+Dialogue: 0,0:00:20.94,0:00:23.48,Text,,0,0,0,,那就好 那我就先告辞了
+Dialogue: 0,0:00:26.65,0:00:28.19,Text,,0,0,0,,那个
+Dialogue: 0,0:00:29.03,0:00:32.24,Text,,0,0,0,,梨花娘娘怎么样了
+Dialogue: 0,0:00:32.62,0:00:36.37,Text,,0,0,0,,虽然她有时候看起来很悲伤
+Dialogue: 0,0:00:36.55,0:00:40.79,Text,,0,0,0,,但是为了管理水晶宫的侍女们 也很尽心
+Dialogue: 0,0:00:41.83,0:00:43.54,Text,,0,0,0,,这样啊 就是现在
+Dialogue: 0,0:00:45.78,0:00:48.05,Text,,0,0,0,,蜥蜴 等等我
+Dialogue: 0,0:00:49.66,0:00:52.18,Text,,0,0,0,,接下来是猫猫的小知识
+Dialogue: 0,0:00:52.94,0:00:54.85,Text,,0,0,0,,当蜥蜴被敌人袭击
+Dialogue: 0,0:00:54.87,0:00:56.76,Text,,0,0,0,,或者感觉到自身有危险的时候
+Dialogue: 0,0:00:56.79,0:00:58.77,Text,,0,0,0,,就会自己断尾
+Dialogue: 0,0:00:59.06,0:01:01.49,Text,,0,0,0,,被断掉的尾巴成为诱饵
+Dialogue: 0,0:01:01.52,0:01:03.56,Text,,0,0,0,,还能起到威慑对方的作用
+Dialogue: 0,0:01:03.72,0:01:05.57,Text,,0,0,0,,蜥蜴再趁机逃跑保护自己
+Dialogue: 0,0:01:09.65,0:01:11.44,Text,,0,0,0,,切 让它逃掉了
+Dialogue: 0,0:01:11.82,0:01:13.91,Text,,0,0,0,,盯
+Dialogue: 0,0:01:14.35,0:01:16.91,Text,,0,0,0,,看来就连高顺大人都开始在意了
+Dialogue: 0,0:01:17.04,0:01:19.83,Text,,0,0,0,,对了 我只要把理由说清楚
+Dialogue: 0,0:01:20.48,0:01:23.44,Text,,0,0,0,,这是我想调查一下蜥蜴生态
+Dialogue: 0,0:01:23.47,0:01:25.96,Text,,0,0,0,,然后制作出生长的药
+Dialogue: 0,0:01:26.13,0:01:27.96,Text,,0,0,0,,生长的药？
+Dialogue: 0,0:01:28.13,0:01:29.96,Text,,0,0,0,,你要让什么东西生长？
+Dialogue: 0,0:01:30.01,0:01:35.51,Text,,0,0,0,,就是壬氏大人和高顺大人以前身体有的一部分
+Dialogue: 0,0:01:35.54,0:01:39.10,Text,,0,0,0,,壬氏大人和我以前身体有的一部分
+Dialogue: 0,0:01:40.89,0:01:43.23,Text,,0,0,0,,告 告辞了
+Dialogue: 0,0:01:43.52,0:01:45.90,Text,,0,0,0,,咦 他好像更在意了
+Dialogue: 0,0:01:47.02,0:01:48.86,Text,,0,0,0,,下集 选择之庙
+Dialogue: 0,0:01:49.51,0:01:53.24,Text,,0,0,0,,又要接到皇帝的委托了
+Dialogue: 0,0:01:54.03,0:01:55.24,Text,,0,0,0,,不要错过

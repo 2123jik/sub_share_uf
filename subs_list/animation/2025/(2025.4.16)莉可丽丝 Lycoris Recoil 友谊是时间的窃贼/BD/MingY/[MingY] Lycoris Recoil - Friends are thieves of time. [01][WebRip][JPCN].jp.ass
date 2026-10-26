@@ -1,0 +1,79 @@
+[Script Info]
+; Font Subset: 2AS1OTO2 - 汉仪正圆-75S
+; Font Subset: 6GPUQPAM - 汉仪正圆-65S
+; Font Subset: Q1NYDGKP - 更纱黑体 SC SemiBold
+; Font Subset: 8AWGNJ43 - A-OTF Shin Maru Go Pr6N DB
+; Attention: This is an auto-generated script. (2025-05-28)
+; GitHub: https://github.com/MingYSub/SubsArchive/releases/tag/202504
+Title: [MingY] Lycoris Recoil - Friends are thieves of time. - 01.JPN
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: JP,8AWGNJ43,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,2,0,1,1.9,0,2,150,150,30,1
+Style: JP - Top,8AWGNJ43,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,1,0,1,1.9,0,8,150,150,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.32,0:00:03.49,JP,,0,0,0,,{\3c&HEE922A&\blur3}はい
+Dialogue: 0,0:00:03.83,0:00:05.95,JP,,0,600,0,,{\3c&HEE922A&\blur3}追加でお願いします
+Dialogue: 0,0:00:06.22,0:00:07.38,JP,,0,0,0,,{\3c&HEE922A&\blur3}そうです
+Dialogue: 0,0:00:08.40,0:00:10.40,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}泥酔{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ひとケースです{\fscx50}　{\fscx}
+Dialogue: 0,0:00:11.29,0:00:13.01,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}いや{\fscx50}　{\fscx0} {\fscx50}　{\fscx}午後で構いません{\fscx50}　{\fscx}
+Dialogue: 0,0:00:15.30,0:00:16.89,JP,,0,0,0,,{\3c&H4039D1&\blur3}先生
+Dialogue: 0,0:00:19.51,0:00:22.09,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}桜茶{\fscx50}　{\fscx0} {\fscx50}　{\fscx}五個追加{\fscx50}　{\fscx}
+Dialogue: 0,0:00:22.09,0:00:23.81,JP,,0,0,0,,{\3c&H68567A&\blur3}またか
+Dialogue: 0,0:00:23.81,0:00:25.97,JP,,0,0,0,,{\3c&H68567A&\blur3}茶の注文ばっかりだな
+Dialogue: 0,0:00:25.97,0:00:29.63,JP,,0,0,0,,{\3c&H4039D1&\blur3}酒を注いで飲んでるバカがいるんだよ
+Dialogue: 0,0:00:30.83,0:00:33.07,JP,,0,0,0,,{\3c&H68567A&\blur3}あんまりミズキに飲ませなさんな
+Dialogue: 0,0:00:33.40,0:00:35.77,JP,,0,0,0,,{\3c&H4039D1&\blur3}先生が言いなよ
+Dialogue: 0,0:00:37.24,0:00:39.82,JP,,0,0,0,,{\3c&H4039D1&\blur3}もうお酒ないじゃん
+Dialogue: 0,0:00:39.82,0:00:41.40,JP,,0,0,0,,{\3c&H4039D1&\blur3}たきな
+Dialogue: 0,0:00:42.02,0:00:43.29,JP,,0,0,0,,{\3c&HEE922A&\blur3}こっちです
+Dialogue: 0,0:00:44.52,0:00:47.44,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}ありがとう{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ありがとう{\fscx50}　{\fscx}
+Dialogue: 0,0:00:47.44,0:00:49.32,JP - Top,,0,0,0,,{\3c&H969F1C&\blur3}ガソリンが足りない
+Dialogue: 0,0:00:45.25,0:00:47.44,JP,,0,0,0,,{\3c&H4039D1&\blur3}泥酔があとちょっとだわ
+Dialogue: 0,0:00:47.44,0:00:49.07,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}今{\fscx50}　{\fscx0} {\fscx50}　{\fscx}追加注文しました{\fscx50}　{\fscx}
+Dialogue: 0,0:00:49.07,0:00:50.63,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}うん{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ナイスぅ{\fscx50}　{\fscx}
+Dialogue: 0,0:00:49.32,0:00:51.76,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}そこの喫茶店{\fscx50}　{\fscx0} {\fscx50}　{\fscx}はよ持ってこい{\fscx50}　{\fscx}
+Dialogue: 0,0:00:51.76,0:00:55.16,JP - Top,,0,0,0,,{\3c&H6CA2C9&\blur3}お前もうマイク離せよ
+Dialogue: 0,0:00:55.16,0:00:57.84,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}たきな{\fscx50}　{\fscx0} {\fscx50}　{\fscx}もう注文すんなよ{\fscx50}　{\fscx}
+Dialogue: 0,0:00:50.98,0:00:52.76,JP,,0,0,0,,{\3c&HEE922A&\blur3}これは毎年ですか
+Dialogue: 0,0:00:52.76,0:00:56.04,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}酒の神がね{\fscx50}　{\fscx0} {\fscx50}　{\fscx}やりたがるから{\fscx50}　{\fscx}
+Dialogue: 0,0:00:56.44,0:00:58.41,JP,,0,0,0,,{\3c&H4039D1&\blur3}困ったもんだわ
+Dialogue: 0,0:00:58.41,0:01:00.53,JP,,0,0,0,,{\3c&HEE922A&\blur3}毎週やって欲しいですよ
+Dialogue: 0,0:01:00.53,0:01:01.68,JP,,0,0,0,,{\3c&H4039D1&\blur3}あれ
+Dialogue: 0,0:01:01.68,0:01:03.31,JP,,0,0,0,,{\3c&H4039D1&\blur3}花見好きな人？
+Dialogue: 0,0:01:03.31,0:01:05.37,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}儲かりますから{\fscx50}　{\fscx0} {\fscx50}　{\fscx}お酒は{\fscx50}　{\fscx}
+Dialogue: 0,0:01:06.62,0:01:08.44,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}来年{\fscx50}　{\fscx0} {\fscx50}　{\fscx}焼き鳥やります？{\fscx50}　{\fscx}
+Dialogue: 0,0:01:09.39,0:01:12.02,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}「うちは居酒屋じゃない」{\fscx50}　{\fscx0} {\fscx50}　{\fscx}って{\fscx50}　{\fscx}
+Dialogue: 0,0:01:12.33,0:01:15.72,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}なんだ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}もう提案済みでしたか{\fscx50}　{\fscx}
+Dialogue: 0,0:01:18.94,0:01:20.85,JP - Top,,0,0,0,,{\3c&H969F1C&\blur3}歌うならマイクあげる
+Dialogue: 0,0:01:20.85,0:01:21.65,JP - Top,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}歌う？{\fscx50}　{\fscx0} {\fscx50}　{\fscx}歌う？{\fscx50}　{\fscx}
+Dialogue: 0,0:01:21.65,0:01:23.16,JP - Top,,0,0,0,,{\3c&H6CA2C9&\blur3}歌わねぇよ
+Dialogue: 0,0:01:22.78,0:01:24.75,JP,,0,0,0,,{\3c&H4039D1&\blur3}桜が
+Dialogue: 0,0:01:25.61,0:01:28.25,JP,,0,0,0,,{\3c&HEE922A&\blur3}今朝から開けっ放しでしたからね
+Dialogue: 0,0:01:28.25,0:01:30.49,JP,,0,0,0,,{\3c&H4039D1&\blur3}不用心だなぁ
+Dialogue: 0,0:01:30.49,0:01:31.85,JP,,0,0,0,,{\3c&HEE922A&\blur3}平気ですよ
+Dialogue: 0,0:01:35.58,0:01:38.30,JP,,0,0,0,,{\3c&H4039D1&\blur3}ちょいちょいちょいちょいちょい…！
+Dialogue: 0,0:01:40.99,0:01:42.21,JP,,0,0,0,,{\3c&H4039D1&\blur3}待て！
+Dialogue: 0,0:01:42.21,0:01:44.16,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}ちょっと{\fscx50}　{\fscx0} {\fscx50}　{\fscx}危ないですよ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:44.16,0:01:45.87,JP,,0,0,0,,{\3c&H4039D1&\blur3}危ないのはお前だ
+Dialogue: 0,0:01:45.87,0:01:46.91,JP,,0,0,0,,{\3c&H4039D1&\blur3}よこせ
+Dialogue: 0,0:01:46.91,0:01:49.45,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}大丈夫{\fscx50}　{\fscx0} {\fscx50}　{\fscx}上手にやります{\fscx50}　{\fscx}
+Dialogue: 0,0:01:49.45,0:01:50.85,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}うわっ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}こわっ！{\fscx50}　{\fscx}
+Dialogue: 0,0:01:50.85,0:01:52.85,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}それ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}怖い言い方だわ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:52.85,0:01:55.75,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H68567A&\blur3}ほら{\fscx50}　{\fscx0} {\fscx50}　{\fscx}早く持ってけ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}団子が固くなるだろう{\fscx50}　{\fscx}
+Dialogue: 0,0:01:55.75,0:01:56.89,JP,,0,0,0,,{\3c&H4039D1&\blur3}だってたきなが…
+Dialogue: 0,0:01:56.89,0:01:58.99,JP,,0,0,0,,{\3c&H969F1C&\blur3}リクエストありがとう
+Dialogue: 0,0:01:58.99,0:02:00.23,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}引っ込め！
+Dialogue: 0,0:02:00.23,0:02:02.95,JP - Top,,0,0,0,,{\3c&H969F1C&\blur3\frz1}君{\frz-1}が{\frz1}持{\frz-1}っ{\frz1}て{\frz-1}き{\frz1}た{\frz-1}漫{\frz1}画
+Dialogue: 0,0:02:01.72,0:02:04.98,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}お前が歌うんかい
+

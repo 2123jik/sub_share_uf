@@ -1,0 +1,41 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:41 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:02.10,0:00:04.05,Text,,0,0,0,,貓貓的獨語
+Dialogue: 0,0:00:07.17,0:00:08.72,Text,,0,0,0,,貓貓的小知識
+Dialogue: 0,0:00:09.84,0:00:13.64,Text,,0,0,0,,狗的聽力大概是人的4倍
+Dialogue: 0,0:00:14.11,0:00:18.52,Text,,0,0,0,,還能聽到人無法聽到的高音
+Dialogue: 0,0:00:19.06,0:00:22.52,Text,,0,0,0,,還能通過動耳朵感知聲音的方向
+Dialogue: 0,0:00:27.61,0:00:29.90,Text,,0,0,0,,狩獵真是災難不斷
+Dialogue: 0,0:00:30.57,0:00:33.87,Text,,0,0,0,,但是 我終於拿到那個了
+Dialogue: 0,0:00:35.15,0:00:38.29,Text,,0,0,0,,牛黃 牛黃
+Dialogue: 0,0:00:38.95,0:00:41.41,Text,,0,0,0,,你還真是個吵鬧的傢伙呢
+Dialogue: 0,0:00:41.96,0:00:44.25,Text,,0,0,0,,一會自言自語 一會唱歌
+Dialogue: 0,0:00:44.37,0:00:46.75,Text,,0,0,0,,壬氏大人 不好意思
+Dialogue: 0,0:00:47.36,0:00:50.97,Text,,0,0,0,,看來從異國把牛黃弄過來也值了
+Dialogue: 0,0:00:51.09,0:00:53.93,Text,,0,0,0,,是啊 只是看著那些靈藥
+Dialogue: 0,0:00:53.96,0:00:57.14,Text,,0,0,0,,就感覺自己可以一個月不眠不休地工作了
+Dialogue: 0,0:00:57.43,0:00:59.35,Text,,0,0,0,,這樣對你的身體有害吧
+Dialogue: 0,0:00:59.89,0:01:01.81,Text,,0,0,0,,那我就去翡翠宮了
+Dialogue: 0,0:01:01.84,0:01:02.94,Text,,0,0,0,,等等
+Dialogue: 0,0:01:03.02,0:01:05.94,Text,,0,0,0,,前兩天的話 我還沒有說完呢
+Dialogue: 0,0:01:06.42,0:01:08.32,Text,,0,0,0,,離得那麼近可不妙
+Dialogue: 0,0:01:10.65,0:01:14.91,Text,,0,0,0,,哪裡 這次狗又會從哪裡跑出來 哪裡
+Dialogue: 0,0:01:17.83,0:01:19.70,Text,,0,0,0,,下集 湯殿
+Dialogue: 0,0:01:20.37,0:01:23.42,Text,,0,0,0,,要去皇宮內的大浴場了
+Dialogue: 0,0:01:23.71,0:01:24.58,Text,,0,0,0,,敬請期待

@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.11,0:00:03.92,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:05.84,0:00:08.07,Text,,0,0,0,,挖掘人脉～
+Dialogue: 0,0:00:08.13,0:00:11.51,Text,,0,0,0,,哦～拿到梳子喽～
+Dialogue: 0,0:00:11.56,0:00:13.51,Text,,0,0,0,,哦～哦～
+Dialogue: 0,0:00:14.93,0:00:17.02,Text,,0,0,0,,想法完全暴露了啊
+Dialogue: 0,0:00:17.31,0:00:19.06,Text,,0,0,0,,猫猫
+Dialogue: 0,0:00:19.15,0:00:22.23,Text,,0,0,0,,你好慢啊 我们要去浴场了
+Dialogue: 0,0:00:22.34,0:00:23.36,Text,,0,0,0,,抱歉抱歉
+Dialogue: 0,0:00:23.58,0:00:25.53,Text,,0,0,0,,咦 赤羽大人呢
+Dialogue: 0,0:00:25.69,0:00:27.07,Text,,0,0,0,,她说她要先去
+Dialogue: 0,0:00:27.19,0:00:29.86,Text,,0,0,0,,她又害怕被人扒衣服了吗
+Dialogue: 0,0:00:30.20,0:00:34.78,Text,,0,0,0,,对了 今天有很多人预约脱毛呢
+Dialogue: 0,0:00:37.37,0:00:39.62,Text,,0,0,0,,接下来是猫猫的小知识
+Dialogue: 0,0:00:40.37,0:00:44.92,Text,,0,0,0,,丝线脱毛是邻国自古以来流行的脱毛方法
+Dialogue: 0,0:00:45.46,0:00:47.09,Text,,0,0,0,,不只是脱掉浮毛
+Dialogue: 0,0:00:47.36,0:00:52.84,Text,,0,0,0,,还可以轻松去掉皮肤表面的代谢物和老角质
+Dialogue: 0,0:00:56.18,0:00:59.39,Text,,0,0,0,,猫猫不仅对药很了解
+Dialogue: 0,0:00:59.48,0:01:01.39,Text,,0,0,0,,对美容也这么了解啊
+Dialogue: 0,0:01:01.56,0:01:03.40,Text,,0,0,0,,毕竟我之前在花街待过
+Dialogue: 0,0:01:03.62,0:01:04.69,Text,,0,0,0,,难道说
+Dialogue: 0,0:01:06.07,0:01:09.94,Text,,0,0,0,,你知道贫瘠的胸变丰满的方法吗
+Dialogue: 0,0:01:11.82,0:01:13.41,Text,,0,0,0,,原来你很在意的吗
+Dialogue: 0,0:01:13.74,0:01:16.28,Text,,0,0,0,,这种会很沉重啦
+Dialogue: 0,0:01:16.31,0:01:21.16,Text,,0,0,0,,还是贫瘠的才能身轻如燕 也好抓虫子 我很羡…
+Dialogue: 0,0:01:25.79,0:01:28.25,Text,,0,0,0,,好了 我们赶紧去吧
+Dialogue: 0,0:01:28.28,0:01:30.67,Text,,0,0,0,,要去挖掘人脉喽～
+Dialogue: 0,0:01:38.01,0:01:40.10,Text,,0,0,0,,下集 起舞的幽灵
+Dialogue: 0,0:01:40.39,0:01:43.73,Text,,0,0,0,,这次要在金刚宫引发骚动了

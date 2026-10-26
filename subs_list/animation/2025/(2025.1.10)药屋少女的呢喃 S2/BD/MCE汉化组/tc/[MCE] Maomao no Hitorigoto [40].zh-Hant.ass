@@ -1,0 +1,47 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:45 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:02.12,0:00:04.05,Text,,0,0,0,,貓貓的獨語
+Dialogue: 0,0:00:07.34,0:00:09.05,Text,,0,0,0,,貓貓的小知識
+Dialogue: 0,0:00:09.76,0:00:12.35,Text,,0,0,0,,艾的原料是艾蒿的絨毛
+Dialogue: 0,0:00:12.99,0:00:14.64,Text,,0,0,0,,葉子背面的絨毛
+Dialogue: 0,0:00:14.99,0:00:18.18,Text,,0,0,0,,可能是因為艾蒿有精油的成分 容易被點著
+Dialogue: 0,0:00:18.85,0:00:22.90,Text,,0,0,0,,不僅溫度低 還能持久燃燒 非常適合針灸
+Dialogue: 0,0:00:25.36,0:00:27.65,Text,,0,0,0,,你們兩個先在這裡等一下
+Dialogue: 0,0:00:29.82,0:00:31.16,Text,,0,0,0,,怎麼辦？
+Dialogue: 0,0:00:32.16,0:00:34.08,Text,,0,0,0,,有沒有什麼好辦法？
+Dialogue: 0,0:00:34.56,0:00:37.25,Text,,0,0,0,,如果能將這種狀況告知老爹的話
+Dialogue: 0,0:00:37.79,0:00:40.08,Text,,0,0,0,,可是為什麼連我都…
+Dialogue: 0,0:00:40.39,0:00:42.67,Text,,0,0,0,,是因為我得知了深綠的惡意嗎？
+Dialogue: 0,0:00:44.17,0:00:48.21,Text,,0,0,0,,翠伶那個傢伙想怎樣逃出皇宮？
+Dialogue: 0,0:00:49.26,0:00:51.84,Text,,0,0,0,,對不起 都是因為我
+Dialogue: 0,0:00:52.05,0:00:54.10,Text,,0,0,0,,不 不是子翠你的錯
+Dialogue: 0,0:00:55.68,0:00:59.85,Text,,0,0,0,,沒想到我終於能掌握那個東西的製作方法
+Dialogue: 0,0:01:01.81,0:01:05.86,Text,,0,0,0,,難道你是為了死而復生的藥
+Dialogue: 0,0:01:05.89,0:01:06.65,Text,,0,0,0,,不是的
+Dialogue: 0,0:01:06.69,0:01:08.28,Text,,0,0,0,,你剛剛都笑出來了
+Dialogue: 0,0:01:09.24,0:01:11.28,Text,,0,0,0,,那是因為我想到了一個好辦法
+Dialogue: 0,0:01:11.34,0:01:12.45,Text,,0,0,0,,什麼辦法？
+Dialogue: 0,0:01:12.99,0:01:13.99,Text,,0,0,0,,就是去反擊
+Dialogue: 0,0:01:14.32,0:01:17.66,Text,,0,0,0,,反擊？對方手裡可是有武器的
+Dialogue: 0,0:01:17.69,0:01:20.41,Text,,0,0,0,,那根針好像還塗了毒藥
+Dialogue: 0,0:01:20.44,0:01:23.46,Text,,0,0,0,,那就讓那個人稍微扎一下 好確認是到底什麼毒藥
+Dialogue: 0,0:01:24.29,0:01:27.96,Text,,0,0,0,,然後趁機用我的拳頭揍她一頓就行了
+Dialogue: 0,0:01:29.13,0:01:32.26,Text,,0,0,0,,貓貓 算我求你了 你老實一些
+Dialogue: 0,0:01:32.76,0:01:34.59,Text,,0,0,0,,下集 狐狸的故鄉
+Dialogue: 0,0:01:34.68,0:01:36.60,Text,,0,0,0,,我們究競會被帶到什麼地方呢

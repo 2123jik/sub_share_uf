@@ -1,0 +1,116 @@
+[Script Info]
+; Font Subset: QXRHE3XW - 汉仪正圆-75S
+; Font Subset: 3TBSZ4KK - 更纱黑体 SC SemiBold
+; Font Subset: QJD0NMWN - A-OTF Shin Maru Go Pr6N DB
+; Attention: This is an auto-generated script. (2025-05-28)
+; GitHub: https://github.com/MingYSub/SubsArchive/releases/tag/202504
+Title: [MingY] Lycoris Recoil - Friends are thieves of time. - 06.JPN
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: JP,QJD0NMWN,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,2,0,1,1.9,0,2,150,150,30,1
+Style: JP - Top,QJD0NMWN,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,1,0,1,1.9,0,8,150,150,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:54.30,0:03:56.97,JP,,0,0,0,,{\fad(200,200)\blur3}君が持ってきた漫画
+Dialogue: 0,0:03:56.97,0:04:00.36,JP,,0,0,0,,{\fad(200,200)\blur3}くれた知らない名前のお花
+Dialogue: 0,0:04:00.36,0:04:02.78,JP,,0,0,0,,{\fad(200,200)\blur3}今日はまだ来ないかな？
+Dialogue: 0,0:04:02.78,0:04:06.42,JP,,0,0,0,,{\fad(200,200)\blur3}初めての感情知ってしまった
+Dialogue: 0,0:04:06.42,0:04:11.95,JP,,0,0,0,,{\fad(200,200)\blur3}窓に飾った絵画をなぞってひとりで宇宙を旅して
+Dialogue: 0,0:04:11.95,0:04:17.57,JP,,0,0,0,,{\fad(200,200)\blur3}それだけでいいはずだったのに
+Dialogue: 0,0:04:18.29,0:04:23.79,JP,,0,0,0,,{\fad(200,200)\blur3}君の手を握ってしまったら
+Dialogue: 0,0:04:23.79,0:04:29.87,JP,,0,0,0,,{\fad(200,200)\blur3}孤独を知らないこの街には
+Dialogue: 0,0:04:29.87,0:04:40.81,JP,,0,0,0,,{\fad(200,200)\blur3}もう二度と帰ってくることはできないのでしょう
+Dialogue: 0,0:04:40.81,0:04:51.96,JP,,0,0,0,,{\fscx50}　{\fscx\fad(200,200)\blur3}君が手を差し伸べた{\fscx50}　{\fscx0} {\fscx50}　{\fscx}光で影が生まれる{\fscx50}　{\fscx}
+Dialogue: 0,0:04:51.96,0:04:57.78,JP,,0,0,0,,{\fscx50}　{\fscx\fad(200,200)\blur3}歌って聞かせて{\fscx50}　{\fscx0} {\fscx50}　{\fscx}この話の続き{\fscx50}　{\fscx}
+Dialogue: 0,0:04:57.78,0:05:07.00,JP,,0,0,0,,{\fad(200,200)\blur3}連れて行って見たことない星まで
+Dialogue: 1,0:00:19.47,0:00:20.80,JP,,0,0,0,,{\3c&HEE922A&\blur3}ご用件は
+Dialogue: 1,0:00:21.97,0:00:24.68,JP,,0,0,0,,{\fscx50}　{\fscx\blur3}私たち{\fscx50}　{\fscx0} {\fscx50}　{\fscx}大ファンなんです{\fscx50}　{\fscx}
+Dialogue: 1,0:00:24.68,0:00:28.64,JP,,0,0,0,,{\fscx50}　{\fscx\blur3}駅で彼女を見つけて{\fscx50}　{\fscx0} {\fscx50}　{\fscx}本物みたいってね{\fscx50}　{\fscx}
+Dialogue: 1,0:00:30.41,0:00:32.50,JP,,0,0,0,,{\3c&HEE922A&\blur3}そんなわけないじゃないですか
+Dialogue: 1,0:00:33.06,0:00:34.40,JP,,0,0,0,,{\blur3}見ていいですか
+Dialogue: 1,0:00:34.40,0:00:35.80,JP,,0,0,0,,{\fscx50}　{\fscx\blur3}ほら{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ここ{\fscx50}　{\fscx}
+Dialogue: 1,0:00:35.80,0:00:37.28,JP,,0,0,0,,{\blur3}本物そっくり
+Dialogue: 1,0:00:37.28,0:00:38.43,JP,,0,0,0,,{\blur3}縫製が違うわ
+Dialogue: 1,0:00:38.43,0:00:39.48,JP,,0,0,0,,{\blur3}どこで買いました
+Dialogue: 1,0:00:39.81,0:00:40.89,JP,,0,0,0,,{\3c&HEE922A&\blur3}支給です
+Dialogue: 1,0:00:40.89,0:00:44.35,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}年間規定実績のクリアと適正{\fscx50}　{\fscx0} {\fscx50}　{\fscx}能力評価によって…{\fscx50}　{\fscx}
+Dialogue: 1,0:00:45.16,0:00:46.45,JP,,0,0,0,,{\3c&H4039D1&\blur3}特注！
+Dialogue: 1,0:00:46.45,0:00:48.78,JP,,0,0,0,,{\3c&H4039D1&\blur3}関係者から特別にいただいたもので
+Dialogue: 1,0:00:48.78,0:00:52.38,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}詳細はあ… あれだ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}けんり… 権利とかのあれが何で{\fscx50}　{\fscx}
+Dialogue: 1,0:00:52.38,0:00:53.17,JP,,0,0,0,,{\3c&H4039D1&\blur3}ねぇ
+Dialogue: 1,0:00:54.63,0:00:56.17,JP,,0,0,0,,{\3c&HEE922A&\blur3}これが隠蔽です
+Dialogue: 1,0:00:56.17,0:00:57.39,JP,,0,0,0,,{\blur3}なりきりすごい
+Dialogue: 1,0:00:57.39,0:00:59.13,JP,,0,0,0,,{\blur3}レベル高いわ
+Dialogue: 1,0:01:03.60,0:01:04.61,JP,,0,0,0,,{\3c&H68567A&\blur3}どうぞ
+Dialogue: 1,0:01:05.47,0:01:06.94,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}で{\fscx50}　{\fscx0} {\fscx50}　{\fscx}どんな映画{\fscx50}　{\fscx}
+Dialogue: 1,0:01:06.94,0:01:08.30,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}ああ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ネタバレなしで{\fscx50}　{\fscx}
+Dialogue: 1,0:01:08.85,0:01:13.01,JP,,0,0,0,,{\fscx50}　{\fscx\blur3}大昔から{\fscx50}　{\fscx0} {\fscx50}　{\fscx}日本の治安を守っている組織があるんですよ{\fscx50}　{\fscx}
+Dialogue: 1,0:01:14.11,0:01:17.91,JP,,0,0,0,,{\fscx50}　{\fscx\blur3}将門も{\fscx50}　{\fscx0} {\fscx50}　{\fscx}信長もその組織に…{\fscx50}　{\fscx}
+Dialogue: 1,0:01:20.55,0:01:24.57,JP,,0,0,0,,{\fscx50}　{\fscx\blur3}現代でも街に潜んでて{\fscx50}　{\fscx0} {\fscx50}　{\fscx}社会の闇を掃除してるんです{\fscx50}　{\fscx}
+Dialogue: 1,0:01:24.57,0:01:27.31,JP,,0,0,0,,{\blur3}だからこんなにも日本は治安がいい
+Dialogue: 1,0:01:27.31,0:01:29.41,JP,,0,0,0,,{\blur3}その組織のエージェントが…
+Dialogue: 1,0:01:29.41,0:01:33.54,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}まさか{\fscx50}　{\fscx0} {\fscx50}　{\fscx}社会から最も警戒されない女子高生の姿？{\fscx50}　{\fscx}
+Dialogue: 1,0:01:33.54,0:01:34.48,JP,,0,0,0,,{\blur3}そう
+Dialogue: 1,0:01:34.48,0:01:35.30,JP,,0,0,0,,{\3c&H4039D1&\blur3}痛くない
+Dialogue: 1,0:01:35.30,0:01:37.75,JP,,0,0,0,,{\3c&HEE922A&\blur3\clip(m 0 942 l 938 942 982 1080 0 1080)}これも映画関係者の小道具です
+Dialogue: 2,0:01:35.30,0:01:37.75,JP,,0,0,0,,{\3c&H68567A&\blur3\iclip(m 0 942 l 938 942 982 1080 0 1080)}これも映画関係者の小道具です
+Dialogue: 1,0:01:39.23,0:01:40.46,JP,,0,0,0,,{\blur3}映画を見て
+Dialogue: 1,0:01:40.46,0:01:44.54,JP,,0,0,0,,{\blur3}リコリスが本当にいたら社会はもっと良くなると思いました
+Dialogue: 1,0:01:44.54,0:01:46.29,JP,,0,0,0,,{\blur3}さっきも高架下の
+Dialogue: 1,0:01:46.29,0:01:47.21,JP,,0,0,0,,{\blur3}落書き
+Dialogue: 1,0:01:47.21,0:01:48.26,JP,,0,0,0,,{\blur3}ひどいよね
+Dialogue: 1,0:01:48.26,0:01:50.16,JP,,0,0,0,,{\blur3}やっちまえばいいのにね
+Dialogue: 1,0:01:50.16,0:01:50.98,JP,,0,0,0,,{\3c&HEE922A&\blur3}お願いします
+Dialogue: 1,0:01:51.39,0:01:54.35,JP,,0,0,0,,{\blur3}でも私たち弱いしな
+Dialogue: 1,0:01:54.35,0:01:55.69,JP,,0,0,0,,{\3c&HEE922A&\blur3}教えましょうか
+Dialogue: 1,0:01:56.27,0:01:56.97,JP,,0,0,0,,{\3c&HEE922A&\blur3}やり方
+Dialogue: 1,0:01:56.97,0:01:58.08,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}おい{\fscx50}　{\fscx0} {\fscx50}　{\fscx}しまえ{\fscx50}　{\fscx}
+Dialogue: 1,0:01:58.08,0:01:59.04,JP,,0,0,0,,{\blur3}なりきりすご
+Dialogue: 1,0:01:59.04,0:02:00.16,JP,,0,0,0,,{\blur3}かっこいい
+Dialogue: 1,0:02:12.82,0:02:16.04,JP,,0,0,0,,{\3c&H4039D1&\blur3}リコリス制服のデザインを変えたほうがいいと思うわけよ
+Dialogue: 1,0:02:16.04,0:02:19.00,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}いっそのこと映画のコンカフェにしたら？
+Dialogue: 1,0:02:19.36,0:02:20.79,JP,,0,0,0,,{\3c&H4039D1&\blur3}それだ
+Dialogue: 1,0:02:21.27,0:02:22.87,JP,,0,0,0,,{\3c&H4039D1&\blur3}じゃねえわ
+Dialogue: 1,0:02:26.47,0:02:27.52,JP,,0,0,0,,{\3c&H3A4060&\blur3}却下
+Dialogue: 1,0:02:28.70,0:02:29.80,JP,,0,0,0,,{\3c&H3A4060&\blur3}却下
+Dialogue: 1,0:02:29.80,0:02:30.65,JP,,0,0,0,,{\3c&H3A4060&\blur3}却下
+Dialogue: 1,0:02:30.65,0:02:31.85,JP,,0,0,0,,{\3c&H3A4060&\blur3}却下
+Dialogue: 1,0:02:31.85,0:02:33.55,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}却下{\fscx50}　{\fscx0} {\fscx50}　{\fscx}却下{\fscx50}　{\fscx}
+Dialogue: 1,0:02:33.55,0:02:35.76,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}却下{\fscx50}　{\fscx0} {\fscx50}　{\fscx}却下{\fscx50}　{\fscx0} {\fscx50}　{\fscx}却下{\fscx50}　{\fscx0} {\fscx50}　{\fscx}却下{\fscx50}　{\fscx}
+Dialogue: 1,0:02:35.76,0:02:37.61,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}何様じゃあ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}お前{\fscx50}　{\fscx}
+Dialogue: 1,0:02:37.61,0:02:40.37,JP,,0,0,0,,{\3c&H3A4060&\blur3}んな売れてない映画なんか気にすんな
+Dialogue: 1,0:02:40.37,0:02:43.20,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4553A3&\blur3}人の噂も七十五日{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ですよ{\fscx50}　{\fscx}
+Dialogue: 1,0:02:43.20,0:02:43.92,JP,,0,0,0,,{\3c&H4039D1&\blur3}あれ
+Dialogue: 1,0:02:43.92,0:02:45.30,JP,,0,0,0,,{\3c&H4039D1&\blur3}今日小僧は？
+Dialogue: 1,0:02:45.30,0:02:46.36,JP,,0,0,0,,{\3c&H3A4060&\blur3}病欠だ
+Dialogue: 1,0:02:46.36,0:02:47.82,JP,,0,0,0,,{\3c&H1D64BB&\blur3}パフェ食べたい
+Dialogue: 1,0:02:48.77,0:02:50.04,JP,,0,0,0,,{\3c&H4553A3&\blur3}残念です
+Dialogue: 1,0:02:50.04,0:02:51.24,JP,,0,0,0,,{\3c&H4039D1&\blur3}思ってないだろ
+Dialogue: 1,0:02:53.67,0:02:55.87,JP,,0,0,0,,{\3c&H969F1C&\blur3}アロハ
+Dialogue: 1,0:02:57.54,0:02:58.69,JP,,0,0,0,,{\3c&H3A4060&\blur3}んだあれ
+Dialogue: 1,0:02:58.69,0:03:00.83,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}我々{\fscx50}　{\fscx0} {\fscx50}　{\fscx}明日始発で空港へ{\fscx50}　{\fscx}
+Dialogue: 1,0:03:01.07,0:03:03.36,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}ワイハだ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ワイハ～{\fscx50}　{\fscx}
+Dialogue: 1,0:03:03.36,0:03:07.01,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}フライトで寝るために{\fscx50}　{\fscx0} {\fscx50}　{\fscx}朝までボドゲだからなぁ{\fscx50}　{\fscx}
+Dialogue: 1,0:03:08.19,0:03:10.46,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}んじゃエリカ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}帰んぞ{\fscx50}　{\fscx}
+Dialogue: 1,0:03:13.46,0:03:15.10,JP,,0,0,0,,{\3c&H3A4060&\blur3}椅子を離せ
+Dialogue: 1,0:03:15.10,0:03:16.51,JP,,0,0,0,,{\3c&H4553A3&\blur3}お泊まりは
+Dialogue: 1,0:03:16.51,0:03:19.19,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}帰えんだよ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}わかってるくせに{\fscx50}　{\fscx}
+Dialogue: 1,0:03:19.67,0:03:22.73,JP,,0,0,0,,{\3c&H4039D1&\blur3}日本の治安は任せたから
+Dialogue: 1,0:03:22.73,0:03:24.39,JP,,0,0,0,,{\3c&H3A4060&\blur3}やかましいわ
+Dialogue: 1,0:03:24.39,0:03:27.15,JP,,0,0,0,,{\3c&H3A4060&\blur3}ここでまともなのは先生だけか…
+Dialogue: 1,0:03:31.44,0:03:31.99,JP,,0,0,0,,{\3c&H3A4060&\blur3}せ…
+Dialogue: 1,0:03:32.51,0:03:33.79,JP,,0,0,0,,{\3c&H3A4060&\blur3}せん…
+Dialogue: 1,0:03:35.13,0:03:36.33,JP,,0,0,0,,{\3c&H3A4060&\blur3}せい…？
+Dialogue: 1,0:03:47.20,0:03:49.06,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}おっさん{\fscx50}　{\fscx0} {\fscx50}　{\fscx}浮かてんな{\fscx50}　{\fscx}
+Dialogue: 1,0:03:49.06,0:03:50.82,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}そうでなくっちゃ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}先生{\fscx50}　{\fscx}
+

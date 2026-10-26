@@ -1,0 +1,47 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:39 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:02.00,0:00:03.75,Text,,0,0,0,,貓貓的獨語
+Dialogue: 0,0:00:07.51,0:00:10.88,Text,,0,0,0,,因為櫻花大人沒有回自己的房間睡
+Dialogue: 0,0:00:10.90,0:00:12.43,Text,,0,0,0,,我完全沒睡好
+Dialogue: 0,0:00:13.01,0:00:16.06,Text,,0,0,0,,早安 昨天真是災難啊
+Dialogue: 0,0:00:16.34,0:00:18.60,Text,,0,0,0,,是啊 不過沒什麼事真是太好了
+Dialogue: 0,0:00:18.85,0:00:21.65,Text,,0,0,0,,為什麼大家會覺得身體不舒服呢
+Dialogue: 0,0:00:24.15,0:00:26.61,Text,,0,0,0,,接下來是貓貓的小知識
+Dialogue: 0,0:00:27.03,0:00:29.49,Text,,0,0,0,,如果有物體在密閉的空間裡燃燒的話
+Dialogue: 0,0:00:29.65,0:00:32.03,Text,,0,0,0,,會產生有毒氣體
+Dialogue: 0,0:00:32.66,0:00:34.74,Text,,0,0,0,,且這種空氣無色無味
+Dialogue: 0,0:00:35.08,0:00:37.02,Text,,0,0,0,,會引起頭疼和頭暈目眩
+Dialogue: 0,0:00:37.04,0:00:39.08,Text,,0,0,0,,嚴重的會導致死亡
+Dialogue: 0,0:00:42.58,0:00:44.79,Text,,0,0,0,,都發生這麼危險的事了
+Dialogue: 0,0:00:45.04,0:00:48.09,Text,,0,0,0,,以後應該不會再辦這種聚會了吧
+Dialogue: 0,0:00:48.34,0:00:51.38,Text,,0,0,0,,我想計劃下次的聚會
+Dialogue: 0,0:00:53.80,0:00:57.10,Text,,0,0,0,,難得大家能聚在一起 沒有下次也太可惜了
+Dialogue: 0,0:00:57.47,0:01:01.19,Text,,0,0,0,,的確 子翠很擅長講鬼故事
+Dialogue: 0,0:01:02.64,0:01:06.57,Text,,0,0,0,,不過 我還是想辦一場能讓大家既安心又開心的聚會
+Dialogue: 0,0:01:06.77,0:01:07.65,Text,,0,0,0,,你的意思是
+Dialogue: 0,0:01:08.40,0:01:12.19,Text,,0,0,0,,我把它稱作“討論蟲子可愛之處的聚會”
+Dialogue: 0,0:01:12.22,0:01:13.78,Text,,0,0,0,,這樣怎麼樣
+Dialogue: 0,0:01:15.53,0:01:18.02,Text,,0,0,0,,徹夜不眠一直討論到早上
+Dialogue: 0,0:01:18.04,0:01:19.79,Text,,0,0,0,,我早就想這麼幹一次了
+Dialogue: 0,0:01:20.12,0:01:22.42,Text,,0,0,0,,機會難得 直接連上前後兩天
+Dialogue: 0,0:01:22.45,0:01:26.94,Text,,0,0,0,,大家在不吃不喝的極限狀態下交流蟲子的魅力
+Dialogue: 0,0:01:26.96,0:01:28.67,Text,,0,0,0,,是相當危險的聚會
+Dialogue: 0,0:01:29.84,0:01:33.72,Text,,0,0,0,,貓貓 我話還沒說完呢
+Dialogue: 0,0:01:34.91,0:01:36.60,Text,,0,0,0,,下集 狩獵
+Dialogue: 0,0:01:36.88,0:01:40.31,Text,,0,0,0,,好像要跟壬氏大人去遠征了

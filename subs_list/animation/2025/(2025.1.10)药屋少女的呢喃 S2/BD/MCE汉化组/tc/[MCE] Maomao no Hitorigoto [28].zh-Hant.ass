@@ -1,0 +1,53 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:33 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:01.91,0:00:03.88,Text,,0,0,0,,高順的獨語
+Dialogue: 0,0:00:06.03,0:00:07.63,Text,,0,0,0,,我回來了
+Dialogue: 0,0:00:08.01,0:00:09.84,Text,,0,0,0,,高順 辛苦了
+Dialogue: 0,0:00:10.43,0:00:13.14,Text,,0,0,0,,然後呢 藥師那邊怎麼樣了
+Dialogue: 0,0:00:13.51,0:00:16.48,Text,,0,0,0,,是的 這次的事件
+Dialogue: 0,0:00:16.51,0:00:19.23,Text,,0,0,0,,她們應該是利用鏡子逃了出來
+Dialogue: 0,0:00:20.02,0:00:23.06,Text,,0,0,0,,果然 小貓的感覺很敏銳
+Dialogue: 0,0:00:23.77,0:00:26.61,Text,,0,0,0,,她好像也明白我們這邊的情況了
+Dialogue: 0,0:00:27.03,0:00:28.65,Text,,0,0,0,,鏡子啊
+Dialogue: 0,0:00:29.20,0:00:30.91,Text,,0,0,0,,等會跟我詳細匯報一下
+Dialogue: 0,0:00:31.24,0:00:34.10,Text,,0,0,0,,遵命 那我就退下了
+Dialogue: 0,0:00:34.14,0:00:35.79,Text,,0,0,0,,你 你等一下
+Dialogue: 0,0:00:35.87,0:00:37.04,Text,,0,0,0,,還有什麼事情嗎
+Dialogue: 0,0:00:37.37,0:00:39.50,Text,,0,0,0,,你還沒有匯報完呢
+Dialogue: 0,0:00:40.75,0:00:41.87,Text,,0,0,0,,如果是訓練場那邊的事情的話
+Dialogue: 0,0:00:41.90,0:00:42.92,Text,,0,0,0,,一切都很順利
+Dialogue: 0,0:00:42.95,0:00:43.54,Text,,0,0,0,,不是的
+Dialogue: 0,0:00:44.96,0:00:47.63,Text,,0,0,0,,毒蘑菇全都採摘完畢了
+Dialogue: 0,0:00:47.67,0:00:48.84,Text,,0,0,0,,也不是那個
+Dialogue: 0,0:00:49.63,0:00:50.78,Text,,0,0,0,,那個
+Dialogue: 0,0:00:50.81,0:00:53.85,Text,,0,0,0,,熊膽那個東西如何了
+Dialogue: 0,0:00:53.92,0:00:54.97,Text,,0,0,0,,原來如此
+Dialogue: 0,0:00:57.27,0:00:59.68,Text,,0,0,0,,現在是高順的小知識
+Dialogue: 0,0:01:00.77,0:01:05.27,Text,,0,0,0,,熊膽對消化不良 胃痛 還有燒心都有效果
+Dialogue: 0,0:01:06.07,0:01:08.57,Text,,0,0,0,,最讓人更震驚的是它的速效性
+Dialogue: 0,0:01:12.99,0:01:15.16,Text,,0,0,0,,如果你胃不舒服的話 我想很快就…
+Dialogue: 0,0:01:15.19,0:01:16.99,Text,,0,0,0,,不是
+Dialogue: 0,0:01:18.91,0:01:20.85,Text,,0,0,0,,就連我都快背出來了
+Dialogue: 0,0:01:20.91,0:01:25.54,Text,,0,0,0,,她和我說了很多次熊膽是何等優秀的良藥
+Dialogue: 0,0:01:25.79,0:01:27.30,Text,,0,0,0,,那也就是說
+Dialogue: 0,0:01:27.75,0:01:30.80,Text,,0,0,0,,她因此大喜過望
+Dialogue: 0,0:01:30.84,0:01:33.84,Text,,0,0,0,,這樣啊 辛苦了
+Dialogue: 0,0:01:36.60,0:01:39.72,Text,,0,0,0,,真是的 真是位棘手的大人
+Dialogue: 0,0:01:41.27,0:01:43.85,Text,,0,0,0,,下集 月精
+Dialogue: 0,0:01:43.90,0:01:48.02,Text,,0,0,0,,影響國家安定的美女 敬請見證

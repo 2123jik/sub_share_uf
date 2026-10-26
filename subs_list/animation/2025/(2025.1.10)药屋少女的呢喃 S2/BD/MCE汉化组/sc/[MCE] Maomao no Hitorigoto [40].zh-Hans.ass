@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.12,0:00:04.05,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:07.34,0:00:09.05,Text,,0,0,0,,猫猫的小知识
+Dialogue: 0,0:00:09.76,0:00:12.35,Text,,0,0,0,,艾的原料是艾蒿的绒毛
+Dialogue: 0,0:00:12.99,0:00:14.64,Text,,0,0,0,,叶子背面的绒毛
+Dialogue: 0,0:00:14.99,0:00:18.18,Text,,0,0,0,,可能是因为艾蒿有精油的成分 容易被点着
+Dialogue: 0,0:00:18.85,0:00:22.90,Text,,0,0,0,,不仅温度低 还能持久燃烧 非常适合针灸
+Dialogue: 0,0:00:25.36,0:00:27.65,Text,,0,0,0,,你们两个先在这里等一下
+Dialogue: 0,0:00:29.82,0:00:31.16,Text,,0,0,0,,怎么办？
+Dialogue: 0,0:00:32.16,0:00:34.08,Text,,0,0,0,,有没有什么好办法？
+Dialogue: 0,0:00:34.56,0:00:37.25,Text,,0,0,0,,如果能将这种状况告知老爹的话
+Dialogue: 0,0:00:37.79,0:00:40.08,Text,,0,0,0,,可是为什么连我都…
+Dialogue: 0,0:00:40.39,0:00:42.67,Text,,0,0,0,,是因为我得知了深绿的恶意吗？
+Dialogue: 0,0:00:44.17,0:00:48.21,Text,,0,0,0,,翠伶那个家伙想怎样逃出皇宫？
+Dialogue: 0,0:00:49.26,0:00:51.84,Text,,0,0,0,,对不起 都是因为我
+Dialogue: 0,0:00:52.05,0:00:54.10,Text,,0,0,0,,不 不是子翠你的错
+Dialogue: 0,0:00:55.68,0:00:59.85,Text,,0,0,0,,没想到我终于能掌握那个东西的制作方法
+Dialogue: 0,0:01:01.81,0:01:05.86,Text,,0,0,0,,难道你是为了死而复生的药
+Dialogue: 0,0:01:05.89,0:01:06.65,Text,,0,0,0,,不是的
+Dialogue: 0,0:01:06.69,0:01:08.28,Text,,0,0,0,,你刚刚都笑出来了
+Dialogue: 0,0:01:09.24,0:01:11.28,Text,,0,0,0,,那是因为我想到了一个好办法
+Dialogue: 0,0:01:11.34,0:01:12.45,Text,,0,0,0,,什么办法？
+Dialogue: 0,0:01:12.99,0:01:13.99,Text,,0,0,0,,就是去反击
+Dialogue: 0,0:01:14.32,0:01:17.66,Text,,0,0,0,,反击？对方手里可是有武器的
+Dialogue: 0,0:01:17.69,0:01:20.41,Text,,0,0,0,,那根针好像还涂了毒药
+Dialogue: 0,0:01:20.44,0:01:23.46,Text,,0,0,0,,那就让那个人稍微扎一下 好确认是到底什么毒药
+Dialogue: 0,0:01:24.29,0:01:27.96,Text,,0,0,0,,然后趁机用我的拳头揍她一顿就行了
+Dialogue: 0,0:01:29.13,0:01:32.26,Text,,0,0,0,,猫猫 算我求你了 你老实一些
+Dialogue: 0,0:01:32.76,0:01:34.59,Text,,0,0,0,,下集 狐狸的故乡
+Dialogue: 0,0:01:34.68,0:01:36.60,Text,,0,0,0,,我们究竞会被带到什么地方呢

@@ -1,0 +1,43 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:02.11,0:00:04.05,Text,,0,0,0,,猫猫的独语
+Dialogue: 0,0:00:06.16,0:00:08.59,Text,,0,0,0,,子式一族在要塞的那件事
+Dialogue: 0,0:00:08.88,0:00:12.93,Text,,0,0,0,,现在回想起来 真是一瞬间的事
+Dialogue: 0,0:00:14.14,0:00:19.60,Text,,0,0,0,,大家都把思绪藏在心里 戴着面具吗？
+Dialogue: 0,0:00:21.12,0:00:22.73,Text,,0,0,0,,猫猫 猫猫
+Dialogue: 0,0:00:23.31,0:00:25.07,Text,,0,0,0,,你醒了啊 壬氏大人
+Dialogue: 0,0:00:26.51,0:00:30.24,Text,,0,0,0,,太好了 我还以为你又不见了
+Dialogue: 0,0:00:30.49,0:00:32.87,Text,,0,0,0,,因为膝枕对腿部的血液循环不好
+Dialogue: 0,0:00:33.32,0:00:36.33,Text,,0,0,0,,我可不记得有允许你离开我的身边了
+Dialogue: 0,0:00:37.47,0:00:41.08,Text,,0,0,0,,这个变态宦官 或者说变态皇弟
+Dialogue: 0,0:00:42.57,0:00:45.25,Text,,0,0,0,,说起面具 这个人也
+Dialogue: 0,0:00:47.42,0:00:49.20,Text,,0,0,0,,真是出类拔萃
+Dialogue: 0,0:00:49.56,0:00:53.39,Text,,0,0,0,,拥有不输给狸猫和狐狸的变化能力
+Dialogue: 0,0:00:57.03,0:00:59.85,Text,,0,0,0,,你要是想说什么的话就赶紧说明白
+Dialogue: 0,0:01:00.04,0:01:04.56,Text,,0,0,0,,没有 我就是觉得壬氏大人真是个多面的人
+Dialogue: 0,0:01:07.38,0:01:09.82,Text,,0,0,0,,但是 那个也已经结束了
+Dialogue: 0,0:01:11.18,0:01:13.28,Text,,0,0,0,,既然被你知道了真实身份
+Dialogue: 0,0:01:13.53,0:01:16.99,Text,,0,0,0,,我就没必要在你面前戴面具了
+Dialogue: 0,0:01:17.54,0:01:21.29,Text,,0,0,0,,换句话说 我们已经是没有秘密的关系了
+Dialogue: 0,0:01:21.58,0:01:24.58,Text,,0,0,0,,不好…不好不好不好
+Dialogue: 0,0:01:24.72,0:01:26.39,Text,,0,0,0,,明明在皇宫的工作已经结束了
+Dialogue: 0,0:01:26.42,0:01:28.38,Text,,0,0,0,,我又有种不好的预感
+Dialogue: 0,0:01:28.80,0:01:33.26,Text,,0,0,0,,话说回来 我们被人打扰的事情的后续
+Dialogue: 0,0:01:33.49,0:01:35.14,Text,,0,0,0,,不继续吗
+Dialogue: 0,0:01:37.97,0:01:40.31,Text,,0,0,0,,喂 等等 猫猫
+Dialogue: 0,0:01:42.92,0:01:46.15,Text,,0,0,0,,完 期待与您再会

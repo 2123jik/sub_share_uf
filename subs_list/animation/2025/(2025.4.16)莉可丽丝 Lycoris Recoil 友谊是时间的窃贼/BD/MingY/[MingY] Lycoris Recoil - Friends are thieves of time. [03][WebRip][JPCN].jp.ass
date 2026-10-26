@@ -1,0 +1,101 @@
+[Script Info]
+; Font Subset: ZKUHNYSL - 汉仪正圆-75S
+; Font Subset: PPJM2MJW - 更纱黑体 SC SemiBold
+; Font Subset: SCA3RLVW - A-OTF Shin Maru Go Pr6N DB
+; Attention: This is an auto-generated script. (2025-05-28)
+; GitHub: https://github.com/MingYSub/SubsArchive/releases/tag/202504
+Title: [MingY] Lycoris Recoil - Friends are thieves of time. - 03.JPN
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: JP,SCA3RLVW,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,2,0,1,1.9,0,2,150,150,30,1
+Style: JP - Top,SCA3RLVW,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,1,0,1,1.9,0,8,150,150,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.60,0:00:04.41,JP,,0,1000,0,,{\3c&H4039D1&\blur3}ただいま
+Dialogue: 0,0:00:08.29,0:00:09.90,JP,,0,0,0,,{\3c&H4039D1&\blur3}ただいま
+Dialogue: 0,0:00:10.49,0:00:12.53,JP,,0,0,0,,{\3c&H4039D1&\blur3}ただいま…
+Dialogue: 0,0:00:35.33,0:00:38.16,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}それ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}割れるの{\fscx50}　{\fscx0} {\fscx50}　{\fscx}浮くの{\fscx50}　{\fscx}
+Dialogue: 0,0:00:40.59,0:00:43.41,JP,,0,0,0,,{\3c&H4039D1&\blur3}私もたまにやるからさ
+Dialogue: 0,0:00:43.41,0:00:44.51,JP,,0,0,0,,{\3c&HEE922A&\blur3}何をです
+Dialogue: 0,0:00:45.51,0:00:48.84,JP,,0,0,0,,{\3c&H4039D1&\blur3}超能力の練習
+Dialogue: 0,0:00:48.84,0:00:51.81,JP,,0,0,0,,{\3c&HEE922A&\blur3}それを使った新メニューを考えてたんですよ
+Dialogue: 0,0:00:51.81,0:00:54.15,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}あっ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}新メニュー{\fscx50}　{\fscx}
+Dialogue: 0,0:00:54.55,0:00:56.42,JP,,0,0,0,,{\3c&H4039D1&\blur3}カクテルグラスか
+Dialogue: 0,0:00:56.42,0:00:59.37,JP,,0,0,0,,{\3c&HEE922A&\blur3}ただコスパも考えたいですから
+Dialogue: 0,0:01:02.63,0:01:03.66,JP,,0,0,0,,{\3c&H4039D1&\blur3}こうだろ
+Dialogue: 0,0:01:03.66,0:01:05.51,JP,,0,0,0,,{\3c&HEE922A&\blur3}そこから離れましょう
+Dialogue: 0,0:01:05.51,0:01:09.20,JP,,0,0,0,,{\3c&H4039D1&\blur3}人は成功体験から離れにくいのよ
+Dialogue: 0,0:01:09.20,0:01:11.23,JP,,0,0,0,,{\3c&HEE922A&\blur3}イノベーションを起こしましょうよ
+Dialogue: 0,0:01:11.23,0:01:12.99,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}イノ…{\fscx50}　{\fscx0} {\fscx50}　{\fscx}なんて{\fscx50}　{\fscx}
+Dialogue: 0,0:01:12.99,0:01:14.02,JP,,0,0,0,,{\3c&HEE922A&\blur3}なんです
+Dialogue: 0,0:01:14.67,0:01:17.40,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}ちょちょちょ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}今のもう一回言って{\fscx50}　{\fscx}
+Dialogue: 0,0:01:17.40,0:01:18.86,JP,,0,0,0,,{\3c&HEE922A&\blur3}イ… イノベーション
+Dialogue: 0,0:01:19.84,0:01:22.88,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}たきなが{\fscx50}　{\fscx0} {\fscx50}　{\fscx}イノベーションですか{\fscx50}　{\fscx}
+Dialogue: 0,0:01:22.88,0:01:24.78,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}あっ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}なんか映画見ただろ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:24.78,0:01:26.30,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}えっ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ま… まあ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:26.30,0:01:27.23,JP,,0,0,0,,{\3c&H4039D1&\blur3}待って
+Dialogue: 0,0:01:27.89,0:01:29.39,JP,,0,0,0,,{\3c&H4039D1&\blur3}『ソーシャルネットワーク』
+Dialogue: 0,0:01:29.39,0:01:30.14,JP,,0,0,0,,{\3c&HEE922A&\blur3}そうですよ
+Dialogue: 0,0:01:30.14,0:01:32.83,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}やった{\fscx50}　{\fscx0} {\fscx50}　{\fscx}あれおもろいよな{\fscx50}　{\fscx}
+Dialogue: 0,0:01:32.83,0:01:37.67,JP,,0,0,0,,{\3c&H4039D1&\blur3}チサト・ザッカーバーグがイノベーションを起こしたるわ
+Dialogue: 0,0:01:39.53,0:01:41.72,JP,,0,0,0,,{\3c&H4039D1&\blur3}どこだったかな
+Dialogue: 0,0:01:41.72,0:01:44.67,JP,,0,0,0,,{\3c&H4039D1&\blur3}たしかこの辺に…
+Dialogue: 0,0:01:44.67,0:01:45.42,JP,,0,0,0,,{\3c&H4039D1&\blur3}あった
+Dialogue: 0,0:01:45.42,0:01:47.30,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}あった{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ほれ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:48.24,0:01:50.03,JP,,0,0,0,,{\3c&H4039D1&\blur3}初期メニュー案だよ
+Dialogue: 0,0:01:50.03,0:01:51.68,JP,,0,0,0,,{\3c&H4039D1&\blur3}なんかヒントにならんかね
+Dialogue: 0,0:01:51.68,0:01:53.35,JP,,0,0,0,,{\3c&HEE922A&\blur3}千束が考えてたんですか
+Dialogue: 0,0:01:53.35,0:01:55.60,JP,,0,0,0,,{\3c&H4039D1&\blur3}すごいだろ
+Dialogue: 0,0:01:56.09,0:01:58.23,JP,,0,0,0,,{\3c&HEE922A&\blur3}ここからですもんね
+Dialogue: 0,0:01:58.23,0:02:00.32,JP,,0,0,0,,{\3c&H4039D1&\blur3}天才じゃわ
+Dialogue: 0,0:02:00.32,0:02:01.90,JP,,0,0,0,,{\3c&HEE922A&\blur3}店長がですよ
+Dialogue: 0,0:02:01.90,0:02:05.73,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}いや{\fscx50}　{\fscx0} {\fscx50}　{\fscx}イノベーションとはアイデアのことでしょう{\fscx50}　{\fscx}
+Dialogue: 0,0:02:05.73,0:02:09.47,JP,,0,0,0,,{\3c&H4039D1&\blur3}想像力は知識よりも重要である
+Dialogue: 0,0:02:09.47,0:02:11.12,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}バイ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}アインシュタイン{\fscx50}　{\fscx}
+Dialogue: 0,0:02:11.12,0:02:12.45,JP,,0,0,0,,{\3c&HEE922A&\blur3}これいいじゃないですか
+Dialogue: 0,0:02:12.45,0:02:13.41,JP,,0,0,0,,{\3c&HEE922A&\blur3}これ
+Dialogue: 0,0:02:14.42,0:02:16.31,JP,,0,0,0,,{\3c&HEE922A&\blur3}店長にお願いしましょうよ
+Dialogue: 0,0:02:16.31,0:02:17.92,JP,,0,0,0,,{\3c&H4039D1&\blur3}いやいやいやいや
+Dialogue: 0,0:02:17.92,0:02:20.34,JP,,0,0,0,,{\3c&H4039D1&\blur3}アイデアだけじゃないところ見せたるわ
+Dialogue: 0,0:02:20.34,0:02:21.67,JP,,0,0,0,,{\3c&HEE922A&\blur3}桃いくらでした
+Dialogue: 0,0:02:21.67,0:02:22.63,JP,,0,0,0,,{\3c&H4039D1&\blur3}シャラップ
+Dialogue: 0,0:02:22.03,0:02:23.73,JP,,1100,0,0,,{\3c&HEE922A&\blur3}領収書見せてくだ…
+Dialogue: 0,0:02:23.01,0:02:24.54,JP,,0,0,0,,{\3c&H4039D1&\blur3}集中してるから
+Dialogue: 0,0:02:23.73,0:02:25.38,JP,,0,1100,0,,{\3c&H969F1C&\blur3}これ使うの
+Dialogue: 0,0:02:26.85,0:02:28.03,JP,,0,0,0,,{\3c&H969F1C&\blur3}これだろ
+Dialogue: 0,0:02:31.94,0:02:33.10,JP,,0,0,0,,{\3c&H4039D1&\blur3}できた
+Dialogue: 0,0:02:33.47,0:02:34.24,JP,,0,0,0,,{\3c&H4039D1&\blur3}どうよ
+Dialogue: 0,0:02:34.24,0:02:36.27,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}つまらん{\fscx50}　{\fscx0} {\fscx50}　{\fscx}引っ込め凡人{\fscx50}　{\fscx}
+Dialogue: 0,0:02:36.74,0:02:38.27,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}見せてやれ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}たきな{\fscx50}　{\fscx}
+Dialogue: 0,0:02:40.05,0:02:43.21,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H969F1C&\blur3}これ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}原価高すぎてボツったやつじゃん{\fscx50}　{\fscx}
+Dialogue: 0,0:02:43.21,0:02:45.21,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}はい{\fscx50}　{\fscx0} {\fscx50}　{\fscx}これ持って{\fscx50}　{\fscx}
+Dialogue: 0,0:02:45.53,0:02:46.82,JP,,0,0,0,,{\3c&H4039D1&\blur3}飲んで
+Dialogue: 0,0:02:48.97,0:02:50.05,JP,,0,0,0,,{\3c&HEE922A&\blur3}どうでしょう
+Dialogue: 0,0:02:56.18,0:02:57.40,JP,,0,0,0,,{\3c&HEE922A&\blur3}変ですか
+Dialogue: 0,0:02:57.40,0:02:59.32,JP,,0,0,0,,{\3c&H969F1C&\blur3}こんなん汚いだろ
+Dialogue: 0,0:02:59.32,0:03:00.69,JP,,0,0,0,,{\3c&H4039D1&\blur3}悔しい
+Dialogue: 0,0:03:00.69,0:03:02.43,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}もう{\fscx50}　{\fscx0} {\fscx50}　{\fscx}片付けますよ{\fscx50}　{\fscx}
+Dialogue: 0,0:03:04.30,0:03:05.84,JP,,0,0,0,,{\3c&HEE922A&\blur3}なんですこの領収書
+Dialogue: 0,0:03:05.84,0:03:07.41,JP,,0,0,0,,{\3c&HEE922A&\blur3}これ原価高すぎですよ
+Dialogue: 0,0:03:07.41,0:03:09.07,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}頼むよ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}これ出そうよ{\fscx50}　{\fscx}
+Dialogue: 0,0:03:09.07,0:03:10.41,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}無理です{\fscx50}　{\fscx0} {\fscx50}　{\fscx}無理です{\fscx50}　{\fscx}
+Dialogue: 0,0:03:10.41,0:03:11.62,JP,,0,0,0,,{\3c&H4039D1&\blur3}めっちゃおもしろい
+Dialogue: 0,0:03:11.62,0:03:13.91,JP,,0,0,0,,{\3c&HEE922A&\blur3}なにがそんなにおもしろいんですか
+Dialogue: 0,0:03:13.06,0:03:14.49,JP,,1200,0,0,,{\3c&H6CA2C9&\blur3}うるせぇわ
+Dialogue: 0,0:03:14.49,0:03:16.25,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}くるみ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}見て見て{\fscx50}　{\fscx0} {\fscx50}　{\fscx}これ{\fscx50}　{\fscx}
+Dialogue: 0,0:03:16.25,0:03:17.87,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}ね{\fscx50}　{\fscx0} {\fscx50}　{\fscx}なんに見える{\fscx50}　{\fscx}
+Dialogue: 0,0:03:15.77,0:03:17.87,JP,,1200,0,0,,{\3c&H6CA2C9&\blur3}なんだよ
+Dialogue: 0,0:03:18.73,0:03:19.54,JP,,0,0,0,,{\3c&H6CA2C9&\blur3}けつじゃん
+Dialogue: 0,0:03:20.04,0:03:21.52,JP,,0,0,0,,{\3c&H969F1C&\blur3}やっぱそうじゃん
+Dialogue: 0,0:03:21.52,0:03:24.65,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}違いますよ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}違います{\fscx50}　{\fscx}
+

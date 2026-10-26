@@ -1,0 +1,52 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans SC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE汉化组制作 仅供学习交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻译：夏祭りの花火 校对：热心市民老楊 时轴：斧头饼
+Dialogue: 0,0:00:01.91,0:00:03.88,Text,,0,0,0,,高顺的独语
+Dialogue: 0,0:00:06.03,0:00:07.63,Text,,0,0,0,,我回来了
+Dialogue: 0,0:00:08.01,0:00:09.84,Text,,0,0,0,,高顺 辛苦了
+Dialogue: 0,0:00:10.43,0:00:13.14,Text,,0,0,0,,然后呢 药师那边怎么样了
+Dialogue: 0,0:00:13.51,0:00:16.48,Text,,0,0,0,,是的 这次的事件
+Dialogue: 0,0:00:16.51,0:00:19.23,Text,,0,0,0,,她们应该是利用镜子逃了出来
+Dialogue: 0,0:00:20.02,0:00:23.06,Text,,0,0,0,,果然 小猫的感觉很敏锐
+Dialogue: 0,0:00:23.77,0:00:26.61,Text,,0,0,0,,她好像也明白我们这边的情况了
+Dialogue: 0,0:00:27.03,0:00:28.65,Text,,0,0,0,,镜子啊
+Dialogue: 0,0:00:29.20,0:00:30.91,Text,,0,0,0,,等会儿跟我详细汇报一下
+Dialogue: 0,0:00:31.24,0:00:34.10,Text,,0,0,0,,遵命 那我就退下了
+Dialogue: 0,0:00:34.14,0:00:35.79,Text,,0,0,0,,你 你等一下
+Dialogue: 0,0:00:35.87,0:00:37.04,Text,,0,0,0,,还有什么事情吗
+Dialogue: 0,0:00:37.37,0:00:39.50,Text,,0,0,0,,你还没有汇报完呢
+Dialogue: 0,0:00:40.75,0:00:41.87,Text,,0,0,0,,如果是训练场那边的事情的话
+Dialogue: 0,0:00:41.90,0:00:42.92,Text,,0,0,0,,一切都很顺利
+Dialogue: 0,0:00:42.95,0:00:43.54,Text,,0,0,0,,不是的
+Dialogue: 0,0:00:44.96,0:00:47.63,Text,,0,0,0,,毒蘑菇全都采摘完毕了
+Dialogue: 0,0:00:47.67,0:00:48.84,Text,,0,0,0,,也不是那个
+Dialogue: 0,0:00:49.63,0:00:50.78,Text,,0,0,0,,那个
+Dialogue: 0,0:00:50.81,0:00:53.85,Text,,0,0,0,,熊胆那个东西如何了
+Dialogue: 0,0:00:53.92,0:00:54.97,Text,,0,0,0,,原来如此
+Dialogue: 0,0:00:57.27,0:00:59.68,Text,,0,0,0,,现在是高顺的小知识
+Dialogue: 0,0:01:00.77,0:01:05.27,Text,,0,0,0,,熊胆对消化不良 胃痛 还有烧心都有效果
+Dialogue: 0,0:01:06.07,0:01:08.57,Text,,0,0,0,,最让人更震惊的是它的速效性
+Dialogue: 0,0:01:12.99,0:01:15.16,Text,,0,0,0,,如果你胃不舒服的话 我想很快就…
+Dialogue: 0,0:01:15.19,0:01:16.99,Text,,0,0,0,,不是
+Dialogue: 0,0:01:18.91,0:01:20.85,Text,,0,0,0,,就连我都快背出来了
+Dialogue: 0,0:01:20.91,0:01:25.54,Text,,0,0,0,,她和我说了很多次熊胆是何等优秀的良药
+Dialogue: 0,0:01:25.79,0:01:27.30,Text,,0,0,0,,那也就是说
+Dialogue: 0,0:01:27.75,0:01:30.80,Text,,0,0,0,,她因此大喜过望
+Dialogue: 0,0:01:30.84,0:01:33.84,Text,,0,0,0,,这样啊 辛苦了
+Dialogue: 0,0:01:36.60,0:01:39.72,Text,,0,0,0,,真是的 真是位棘手的大人
+Dialogue: 0,0:01:41.27,0:01:43.85,Text,,0,0,0,,下集 月精
+Dialogue: 0,0:01:43.90,0:01:48.02,Text,,0,0,0,,影响国家安定的美女 敬请见证

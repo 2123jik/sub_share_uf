@@ -1,0 +1,45 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:39 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 校對：熱心市民老楊 時軸：斧頭餅
+Dialogue: 0,0:00:01.63,0:00:03.75,Text,,0,0,0,,貓貓的獨語
+Dialogue: 0,0:00:05.55,0:00:09.93,Text,,0,0,0,,先帝遺體不腐的原因居然是雄黃
+Dialogue: 0,0:00:12.60,0:00:14.85,Text,,0,0,0,,這裡給大家講一下貓貓的小知識
+Dialogue: 0,0:00:15.56,0:00:19.52,Text,,0,0,0,,雄黃中的砒霜是無色無味的毒物
+Dialogue: 0,0:00:20.15,0:00:23.36,Text,,0,0,0,,人一旦中毒就會產生肌肉無力、貧血等症狀
+Dialogue: 0,0:00:23.86,0:00:28.27,Text,,0,0,0,,還能殺死促進屍體腐爛的細菌和微生物
+Dialogue: 0,0:00:28.30,0:00:30.24,Text,,0,0,0,,有防腐作用
+Dialogue: 0,0:00:34.33,0:00:37.83,Text,,0,0,0,,不過 居然把那麼大一幅畫藏在牆裡
+Dialogue: 0,0:00:39.01,0:00:42.67,Text,,0,0,0,,藥師 這次的工作也辛苦你了
+Dialogue: 0,0:00:42.96,0:00:43.92,Text,,0,0,0,,不敢當
+Dialogue: 0,0:00:44.38,0:00:46.38,Text,,0,0,0,,我聽水蓮說了
+Dialogue: 0,0:00:46.40,0:00:50.26,Text,,0,0,0,,好像是你找到了雄黃的碎片
+Dialogue: 0,0:00:50.29,0:00:55.18,Text,,0,0,0,,是的 我是從放有木刻人偶和玩具手球的箱子裡找到的
+Dialogue: 0,0:00:55.42,0:00:56.85,Text,,0,0,0,,木刻人偶？
+Dialogue: 0,0:00:58.71,0:01:04.40,Text,,0,0,0,,果然不把喜歡的東西隱藏好 就會被他人隱藏起來嗎
+Dialogue: 0,0:01:04.99,0:01:09.99,Text,,0,0,0,,是啊 我也是不想讓別人搶走冬蟲夏草和熊膽
+Dialogue: 0,0:01:10.03,0:01:11.70,Text,,0,0,0,,才用心藏好的
+Dialogue: 0,0:01:11.89,0:01:13.82,Text,,0,0,0,,應該沒有人會搶的吧
+Dialogue: 0,0:01:14.53,0:01:15.52,Text,,0,0,0,,不管怎麼說
+Dialogue: 0,0:01:15.55,0:01:19.25,Text,,0,0,0,,壬氏大人也把自己喜愛的東西藏起來才是上策
+Dialogue: 0,0:01:19.47,0:01:22.79,Text,,0,0,0,,喜…喜歡的物件啊
+Dialogue: 0,0:01:23.67,0:01:25.92,Text,,0,0,0,,我臉上是沾了什麼東西嗎
+Dialogue: 0,0:01:26.07,0:01:28.13,Text,,0,0,0,,沒…沒什麼
+Dialogue: 0,0:01:29.38,0:01:32.59,Text,,0,0,0,,真是的 這怎麼藏啊
+Dialogue: 0,0:01:35.14,0:01:36.85,Text,,0,0,0,,下集 怪談
+Dialogue: 0,0:01:37.68,0:01:40.43,Text,,0,0,0,,事實比小說還奇特
+Dialogue: 0,0:01:41.44,0:01:42.81,Text,,0,0,0,,敬請期待

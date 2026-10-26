@@ -1,0 +1,88 @@
+[Script Info]
+; Font Subset: BKL7OL9W - 汉仪正圆-75S
+; Font Subset: RXQ7TML3 - 更纱黑体 SC SemiBold
+; Font Subset: 97RGXU9D - A-OTF Shin Maru Go Pr6N DB
+; Attention: This is an auto-generated script. (2025-05-28)
+; GitHub: https://github.com/MingYSub/SubsArchive/releases/tag/202504
+Title: [MingY] Lycoris Recoil - Friends are thieves of time. - 05.JPN
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: JP,97RGXU9D,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,2,0,1,1.9,0,2,150,150,30,1
+Style: JP - Top,97RGXU9D,80,&H00FFFFFF,&H00FFFFFF,&H00303030,&H14444444,0,0,0,0,100,100,1,0,1,1.9,0,8,150,150,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.72,0:00:07.13,JP,,0,1000,0,,{\3c&H1D64BB&\blur3}やっと帰れるっすね
+Dialogue: 0,0:00:07.13,0:00:09.98,JP,,0,1100,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}明日も早ぇから{\fscx50}　{\fscx0} {\fscx50}　{\fscx}今日はこっちに泊まりだ{\fscx50}　{\fscx}
+Dialogue: 0,0:00:09.98,0:00:10.90,JP,,0,0,0,,{\3c&H1D64BB&\blur3}マジっすか？
+Dialogue: 0,0:00:10.90,0:00:12.42,JP,,0,0,0,,{\3c&H1D64BB&\blur3}やった～
+Dialogue: 0,0:00:14.93,0:00:18.93,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}お前らの店である前に{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ここもDAの施設なんだよ{\fscx50}　{\fscx}
+Dialogue: 0,0:00:20.81,0:00:23.05,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}でも{\fscx50}　{\fscx0} {\fscx50}　{\fscx}泊まりのときはだいたい…{\fscx50}　{\fscx}
+Dialogue: 0,0:00:23.05,0:00:25.36,JP,,0,0,0,,{\3c&H1D64BB&\blur3}帝国ホテル
+Dialogue: 0,0:00:26.12,0:00:27.36,JP,,0,0,0,,{\3c&HEE922A&\blur3}ですよね
+Dialogue: 0,0:00:27.36,0:00:28.98,JP,,0,0,0,,{\3c&HEE922A&\blur3}なぜリコリコに…
+Dialogue: 0,0:00:27.79,0:00:29.73,JP,,0,1100,0,,{\3c&H68567A&\blur3}取りにきてくれよ
+Dialogue: 0,0:00:29.73,0:00:30.97,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}はい{\fscx50}　{\fscx0} {\fscx50}　{\fscx}先生{\fscx50}　{\fscx}
+Dialogue: 0,0:00:31.37,0:00:33.49,JP,,0,0,0,,{\3c&H4039D1&\blur3}たきなにわかるかな
+Dialogue: 0,0:00:33.49,0:00:35.11,JP,,0,0,0,,{\3c&H4039D1&\blur3}わかんないだろうな
+Dialogue: 0,0:00:35.11,0:00:37.39,JP,,0,0,0,,{\3c&H68567A&\blur3}フキはミルクセーキでいいよな
+Dialogue: 0,0:00:37.39,0:00:37.94,JP,,0,0,0,,{\3c&H3A4060&\blur3}はい
+Dialogue: 0,0:00:38.54,0:00:40.90,JP,,0,0,0,,{\3c&H68567A&\blur3}あんまり夜更かしするんじゃないぞ
+Dialogue: 0,0:00:41.20,0:00:42.06,JP,,0,0,0,,{\3c&H3A4060&\blur3}はい！
+Dialogue: 0,0:00:42.06,0:00:43.44,JP,,0,0,0,,{\3c&H4039D1&\blur3}フキ
+Dialogue: 0,0:00:44.35,0:00:46.11,JP,,0,0,0,,{\3c&H4039D1&\blur3}フキ
+Dialogue: 0,0:00:46.87,0:00:48.24,JP,,0,0,0,,{\3c&H4039D1&\blur3}準備できたよ
+Dialogue: 0,0:00:48.24,0:00:50.75,JP,,0,0,0,,{\3c&H3A4060&\blur3}お前らは家に帰れよ！
+Dialogue: 0,0:00:50.75,0:00:52.62,JP,,0,0,0,,{\3c&H4039D1&\blur3}パジャマパーティーでしょうが
+Dialogue: 0,0:00:54.92,0:00:56.67,JP,,0,0,0,,{\3c&H3A4060&\blur3}じゃあ一緒に住んでんのか
+Dialogue: 0,0:00:56.97,0:00:58.35,JP,,0,0,0,,{\3c&HEE922A&\blur3}部屋探し中です
+Dialogue: 0,0:00:58.35,0:01:00.82,JP,,0,0,0,,{\3c&H4039D1&\blur3}ずっと居てくれていいんだよ
+Dialogue: 0,0:01:03.03,0:01:04.63,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H1D64BB&\blur3}なあ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}電波塔{\fscx50}　{\fscx}
+Dialogue: 0,0:01:06.73,0:01:07.43,JP,,0,0,0,,{\3c&H3A4060&\blur3}ダメだ
+Dialogue: 0,0:01:07.43,0:01:08.24,JP,,0,0,0,,{\3c&HEE922A&\blur3}ダメですよ
+Dialogue: 0,0:01:08.24,0:01:11.03,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H1D64BB&\blur3}ちょっとだけ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}ちょっとだけっすよ{\fscx50}　{\fscx}
+Dialogue: 0,0:01:13.13,0:01:14.90,JP,,0,0,0,,{\3c&H4039D1&\blur3}いいじゃん
+Dialogue: 0,0:01:15.32,0:01:16.51,JP,,0,0,0,,{\3c&H4039D1&\blur3}減るもんじゃないし
+Dialogue: 0,0:01:19.93,0:01:23.32,JP,,0,0,0,,{\3c&H1D64BB&\blur3}これがファーストの景色か
+Dialogue: 0,0:01:23.32,0:01:26.08,JP,,0,0,0,,{\3c&H3A4060&\blur3}私はぜってぇ貸さねえからな
+Dialogue: 0,0:01:26.57,0:01:29.28,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H1D64BB&\blur3}以前{\fscx50}　{\fscx0} {\fscx50}　{\fscx}先輩のこっそり着ようとしたんですけど{\fscx50}　{\fscx}
+Dialogue: 0,0:01:30.53,0:01:31.93,JP,,0,0,0,,{\3c&H1D64BB&\blur3}胸が苦しくて…
+Dialogue: 0,0:01:31.93,0:01:33.79,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}どういう意味だ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}てめ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}この野郎{\fscx50}　{\fscx}
+Dialogue: 0,0:01:33.79,0:01:35.89,JP,,0,0,0,,{\3c&H1D64BB&\blur3}強盗とか来ないっすか
+Dialogue: 0,0:01:35.89,0:01:37.63,JP,,0,0,0,,{\3c&H4039D1&\blur3}また来るかも
+Dialogue: 0,0:01:37.63,0:01:40.01,JP,,0,0,0,,{\fscx50}　{\fscx\3c&HEE922A&\blur3}来ませんよ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}早く着替えて{\fscx50}　{\fscx}
+Dialogue: 0,0:01:40.01,0:01:41.25,JP,,0,0,0,,{\3c&HEE922A&\blur3}電気消しますよ
+Dialogue: 0,0:01:41.25,0:01:42.24,JP,,0,0,0,,{\3c&H3A4060&\blur3}寝るぞ寝るぞ
+Dialogue: 0,0:01:42.24,0:01:44.79,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H1D64BB&\blur3}あっ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}もうちょっ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}もうちょっとだけ{\fscx50}　{\fscx}
+Dialogue: 0,0:02:27.95,0:02:28.84,JP,,0,0,0,,{\3c&H1D64BB&\blur3}ちょ… ちょっ…
+Dialogue: 0,0:02:29.22,0:02:29.76,JP,,0,0,0,,{\3c&H3A4060&\blur3}強盗か
+Dialogue: 0,0:02:29.76,0:02:31.08,JP,,0,0,0,,{\3c&H4039D1&\blur3}またか
+Dialogue: 0,0:02:33.56,0:02:34.77,JP,,0,0,0,,{\3c&HEE922A&\blur3}何か見ましたか
+Dialogue: 0,0:02:37.02,0:02:38.23,JP,,0,0,0,,{\3c&HEE922A&\blur3}勝手口のほうです
+Dialogue: 0,0:02:38.23,0:02:39.61,JP,,0,600,0,,{\3c&H3A4060&\blur3}了解
+Dialogue: 0,0:02:38.23,0:02:39.61,JP,,600,0,0,,{\3c&H4039D1&\blur3}オッケー
+Dialogue: 0,0:02:45.40,0:02:47.70,JP,,0,0,0,,{\3c&HEE922A&\blur3}何も見ませんでしたよね
+Dialogue: 0,0:02:55.54,0:02:56.98,JP,,1200,0,0,,{\3c&H6CA2C9&\blur3}飲みすぎた
+Dialogue: 0,0:02:56.71,0:02:58.46,JP,,0,1200,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}うっせぇな{\fscx50}　{\fscx0} {\fscx50}　{\fscx}おめえ{\fscx50}　{\fscx}
+Dialogue: 0,0:02:55.16,0:02:56.58,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}御用だ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}御用だ{\fscx50}　{\fscx}
+Dialogue: 0,0:02:57.16,0:02:58.48,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}御用だ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}御用だ{\fscx50}　{\fscx}
+Dialogue: 0,0:02:58.46,0:03:01.08,JP,,0,1350,0,,{\fscx50}　{\fscx\3c&H6CA2C9&\blur3}うっせぇな{\fscx50}　{\fscx0} {\fscx50}　{\fscx}リコリス{\fscx50}　{\fscx}
+Dialogue: 0,0:02:58.48,0:03:01.25,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H3A4060&\blur3}黙ってられんのか{\fscx50}　{\fscx0} {\fscx50}　{\fscx}なんのマネだそれ{\fscx50}　{\fscx}
+Dialogue: 0,0:03:01.25,0:03:02.05,JP,,0,0,0,,{\3c&H4039D1&\blur3}お安い御用
+Dialogue: 0,0:03:02.05,0:03:03.24,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}御用だ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}御用だ{\fscx50}　{\fscx}
+Dialogue: 0,0:03:03.24,0:03:04.31,JP,,0,0,0,,{\3c&H3A4060&\blur3}何よ
+Dialogue: 0,0:03:04.31,0:03:05.59,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}えっ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}フキ{\fscx50}　{\fscx}
+Dialogue: 0,0:03:05.59,0:03:06.39,JP,,0,0,0,,{\3c&H3A4060&\blur3}んだよ
+Dialogue: 0,0:03:06.39,0:03:07.31,JP,,0,0,0,,{\fscx50}　{\fscx\3c&H4039D1&\blur3}あ… あれ{\fscx50}　{\fscx0} {\fscx50}　{\fscx}あれ何{\fscx50}　{\fscx}
+Dialogue: 0,0:03:07.31,0:03:07.92,JP,,0,0,0,,{\3c&H3A4060&\blur3}何
+Dialogue: 0,0:03:10.11,0:03:12.72,JP,,0,0,0,,{\3c&H68567A&\blur3}早く寝ろ！
+

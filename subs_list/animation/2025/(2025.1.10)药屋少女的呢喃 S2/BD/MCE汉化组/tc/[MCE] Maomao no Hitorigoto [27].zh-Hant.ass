@@ -1,0 +1,44 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-3a5cc008-r1055 @ 2025/10/26 08:20:31 | https://zhconvert.org
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYXuanSong 65S,70,&H00FFFFFF,&H0000FFFF,&H00658946,&H004F5D36,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: Staff,Source Han Sans TC Medium,55,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Staff,,0,0,0,,{\fad(300,300)}本字幕由MCE漢化組製作 僅供學習交流使用
+Dialogue: 0,0:00:06.00,0:00:11.00,Staff,,0,0,0,,{\fad(300,300)}翻譯：夏祭りの花火 時軸：旋風若葉睦
+Dialogue: 0,0:00:02.27,0:00:03.71,Text,,0,0,0,,壬氏的獨語
+Dialogue: 0,0:00:07.61,0:00:10.51,Text,,0,0,0,,為什麼會發生殘酷的事件呢
+Dialogue: 0,0:00:11.38,0:00:15.06,Text,,0,0,0,,藥師甚至還要去把屍體挖出來
+Dialogue: 0,0:00:17.96,0:00:22.06,Text,,0,0,0,,如果皇宮成為對大家而言住著舒服的地方就好了
+Dialogue: 0,0:00:22.09,0:00:23.06,Text,,0,0,0,,壬氏大人
+Dialogue: 0,0:00:25.16,0:00:26.36,Text,,0,0,0,,正好
+Dialogue: 0,0:00:26.39,0:00:28.03,Text,,0,0,0,,我有事想問問你
+Dialogue: 0,0:00:29.19,0:00:31.16,Text,,0,0,0,,是什麼事呢
+Dialogue: 0,0:00:32.95,0:00:33.53,Text,,0,0,0,,其實
+Dialogue: 0,0:00:34.10,0:00:37.04,Text,,0,0,0,,我很擔心妃子精神方面的問題
+Dialogue: 0,0:00:37.90,0:00:39.37,Text,,0,0,0,,有沒有讓人冷靜下來的
+Dialogue: 0,0:00:39.89,0:00:42.92,Text,,0,0,0,,對嫉妒和心痛有效的藥呢
+Dialogue: 0,0:00:43.58,0:00:46.34,Text,,0,0,0,,這麼說的話 我覺得蘑菇最合適了
+Dialogue: 0,0:00:48.64,0:00:51.09,Text,,0,0,0,,這裡給大家講解一下貓貓的小知識
+Dialogue: 0,0:00:51.91,0:00:55.97,Text,,0,0,0,,食用蘑菇裡有抑制大腦神經細胞
+Dialogue: 0,0:00:56.06,0:00:57.46,Text,,0,0,0,,紓解緊張感
+Dialogue: 0,0:00:57.48,0:01:00.81,Text,,0,0,0,,利於靜心的成分
+Dialogue: 0,0:01:05.07,0:01:07.19,Text,,0,0,0,,哦 這個不錯
+Dialogue: 0,0:01:08.70,0:01:11.82,Text,,0,0,0,,話說你的樣子不太對勁啊
+Dialogue: 0,0:01:12.88,0:01:13.91,Text,,0,0,0,,是嗎
+Dialogue: 0,0:01:14.64,0:01:17.24,Text,,0,0,0,,你來這裡之前做了什麼
+Dialogue: 0,0:01:23.41,0:01:29.26,Text,,0,0,0,,報告中顯示 有一種人吃了以後就會笑個不停的毒蘑菇
+Dialogue: 0,0:01:31.42,0:01:35.43,Text,,0,0,0,,難道說 你又把你自己當成實驗體了嗎
+Dialogue: 0,0:01:38.43,0:01:40.31,Text,,0,0,0,,過來 趕緊去醫局
+Dialogue: 0,0:01:42.66,0:01:44.23,Text,,0,0,0,,下集 鏡子
+Dialogue: 0,0:01:44.98,0:01:47.73,Text,,0,0,0,,皇宮裡來了一群棘手的客人
