@@ -1,0 +1,68 @@
+name: Batch Sync Latest Subs
+
+on:
+  workflow_dispatch: # 手动触发
+
+jobs:
+  batch_sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 1. 腾出磁盘空间
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: true
+          android: true
+          dotnet: true
+
+      # 2. 检出当前仓库
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 3. 安装 SVN
+      - name: Install SVN
+        run: sudo apt-get update -qq && sudo apt-get install -y subversion
+
+      # 4. 最稳分批：按年份子目录逐个搬运最新状态
+      - name: Sync by Subdirectories
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          SVN_URL="https://svn.acgdev.com:505/svn/sub_share/trunk/subs_list/animation"
+          SVN_AUTH="--username test --password '' --non-interactive --trust-server-cert-failures=unknown-ca,cn-mismatch,expired,not-yet-valid,other"
+
+          # 1. 获取原站的所有年份目录列表 (如 2015/, 2024/ 等)
+          YEARS=$(svn list $SVN_AUTH "$SVN_URL")
+
+          # 2. 逐个年份搬运
+          for YR in $YEARS; do
+            TARGET_DIR="subs_list/animation/$YR"
+
+            # 断点检查：本地如果已经有了，直接跳过
+            if [ -d "$TARGET_DIR" ]; then
+              echo ">>> 跳过已存在的年份: $YR"
+              continue
+            fi
+
+            echo "=========================================="
+            echo ">>> 正在搬运最新状态: $YR"
+            echo "=========================================="
+
+            # 原地拉取该年份最新文件
+            mkdir -p "$TARGET_DIR"
+            svn export --force $SVN_AUTH "$SVN_URL/$YR" "$TARGET_DIR"
+
+            # 立即提交并推送到 GitHub，防止数据堆积撑爆单次 push
+            git add "$TARGET_DIR"
+            if ! git diff --staged --quiet; then
+              git commit -m "sync: add latest subs for $YR"
+              git push origin HEAD
+              echo ">>> $YR 搬运并推送成功！"
+            fi
+          done
+
+          echo "所有分类全部搬运完成！"
