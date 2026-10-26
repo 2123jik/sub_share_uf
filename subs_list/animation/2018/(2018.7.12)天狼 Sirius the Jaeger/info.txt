@@ -1,0 +1,5 @@
+﻿chs: 天狼 Sirius the Jaeger
+cht: 天狼 Sirius the Jaeger
+jp: 天狼 Sirius the Jaeger
+en: Sirius the Jaeger
+rome: Sirius the Jaeger
