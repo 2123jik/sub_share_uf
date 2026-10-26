@@ -1,0 +1,2 @@
+﻿providers: FPE
+desc: 使用星空字幕组修改，匹配 IrizaRaws，修改屏幕字样式（修改为不遮挡原始画面的内容）

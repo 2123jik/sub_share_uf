@@ -1,0 +1,5 @@
+﻿chs: 勇者企划 Endro～！
+cht: 勇者企劃 Endro～！
+jp: えんどろ〜！
+en: Endro～！
+rome: Endro～！

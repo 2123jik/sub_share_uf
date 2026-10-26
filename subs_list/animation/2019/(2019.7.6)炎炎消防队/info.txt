@@ -1,0 +1,5 @@
+﻿chs: 炎炎消防队(第1季)
+cht: 炎炎消防隊(第1季)
+jp: 炎炎ノ消防隊
+en: Fire Force
+rome: Enen no Shouboutai
