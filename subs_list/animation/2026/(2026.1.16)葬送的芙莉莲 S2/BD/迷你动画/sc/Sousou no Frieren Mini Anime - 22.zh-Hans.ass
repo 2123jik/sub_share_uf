@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYZhengYuan-65S,80,&H00EFFFEF,&H0000FFFF,&H00A7B10A,&H00DEDFCF,0,0,0,0,100,100,0,0,1,3,0,2,10,10,20,1
+Style: Staff,HYZhengYuan-65S,65,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.20,0:00:04.53,Text,,0,0,0,,葬送的芙莉莲 ～●●的魔法～
+Dialogue: 0,0:00:06.00,0:00:09.73,Text,,0,0,0,,把心里想的事说出来的魔法 2
+Dialogue: 0,0:00:11.00,0:00:12.66,Text,,0,0,0,,既然已经打倒魔族了
+Dialogue: 0,0:00:12.73,0:00:14.73,Text,,0,0,0,,回去找修塔尔克他们吧
+Dialogue: 0,0:00:15.26,0:00:16.66,Text,,0,0,0,,也对
+Dialogue: 0,0:00:16.73,0:00:18.33,Text,,0,0,0,,顺带一提，芙莉莲小姐
+Dialogue: 0,0:00:18.40,0:00:21.46,Text,,0,0,0,,可以继续让我摸摸你吗
+Dialogue: 0,0:00:21.73,0:00:22.86,Text,,0,0,0,,不可以
+Dialogue: 0,0:00:22.93,0:00:25.40,Text,,0,0,0,,魔导书报酬的份已经用完了
+Dialogue: 0,0:00:25.60,0:00:27.26,Text,,0,0,0,,啊啦，真可惜
+Dialogue: 0,0:00:29.00,0:00:32.06,Text,,0,0,0,,真是搞不懂梅托帝大人在想些什么呢
+Dialogue: 0,0:00:32.33,0:00:33.53,Text,,0,0,0,,就是说啊
+Dialogue: 0,0:00:33.60,0:00:36.20,Text,,0,0,0,,我在空中看着你们的战斗
+Dialogue: 0,0:00:36.21,0:00:37.80,Text,,0,0,0,,打得相当上手啊
+Dialogue: 0,0:00:38.53,0:00:40.26,Text,,0,0,0,,一方面很冷静严肃的样子
+Dialogue: 0,0:00:40.33,0:00:42.33,Text,,0,0,0,,另一面又说喜欢可爱的东西
+Dialogue: 0,0:00:42.40,0:00:45.73,Text,,0,0,0,,说真的，我完全搞不懂她在想什么
+Dialogue: 0,0:00:46.33,0:00:47.20,Text,,0,0,0,,对了
+Dialogue: 0,0:00:47.26,0:00:50.46,Text,,0,0,0,,用用看“把心里想的事说出来的魔法”吧
+Dialogue: 0,0:00:51.20,0:00:53.53,Text,,0,0,0,,还有这种魔法吗
+Dialogue: 0,0:00:53.60,0:00:55.53,Text,,0,0,0,,真是恐怖
+Dialogue: 0,0:00:55.60,0:00:57.46,Text,,0,0,0,,不过还是试试看吧
+Dialogue: 0,0:01:01.80,0:01:04.66,Text,,0,0,0,,会不会其实在想一些非常不得了的事情呢
+Dialogue: 0,0:01:04.93,0:01:08.26,Text,,0,0,0,,啊，刚才那股冲动已经压抑不住了啊
+Dialogue: 0,0:01:08.86,0:01:11.73,Text,,0,0,0,,还在想刚才的战斗吗
+Dialogue: 0,0:01:11.80,0:01:13.73,Text,,0,0,0,,本性很好斗呢
+Dialogue: 0,0:01:14.06,0:01:15.13,Text,,0,0,0,,好想
+Dialogue: 0,0:01:15.20,0:01:16.13,Text,,0,0,0,,好想！
+Dialogue: 0,0:01:17.00,0:01:19.80,Text,,0,0,0,,好想再多抱紧紧芙莉莲小姐啊啊啊
+Dialogue: 0,0:01:21.13,0:01:23.20,Text,,0,0,0,,好想贴脸开大啊
+Dialogue: 0,0:01:23.26,0:01:24.86,Text,,0,0,0,,菲伦小姐也是
+Dialogue: 0,0:01:25.80,0:01:27.33,Text,,0,0,0,,好想对她摸摸头呀
+Dialogue: 0,0:01:27.40,0:01:28.86,Text,,0,0,0,,抱紧紧呀
+Dialogue: 0,0:01:29.00,0:01:31.46,Text,,0,0,0,,好想蹭来蹭去的呀啊啊啊
+Dialogue: 0,0:01:31.53,0:01:32.80,Text,,0,0,0,,还有赛丽艾大人也是
+Dialogue: 0,0:01:32.86,0:01:34.60,Text,,0,0,0,,赞则小姐也是
+Dialogue: 0,0:01:35.46,0:01:37.66,Text,,0,0,0,,有点担心盖纳乌先生他们
+Dialogue: 0,0:01:37.73,0:01:38.60,Text,,0,0,0,,我们加快脚步吧
+Dialogue: 0,0:01:39.00,0:01:41.46,Text,,0,0,0,,好，但我们保持一些距离吧
+Dialogue: 0,0:01:41.66,0:01:43.26,Text,,0,0,0,,怎么了吗

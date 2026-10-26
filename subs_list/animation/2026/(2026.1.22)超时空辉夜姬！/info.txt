@@ -1,0 +1,5 @@
+﻿chs: 超时空辉夜姬！/超辉夜姬！/超时空辉耀姬！
+cht: 超時空輝夜姬！/超輝夜姬！/超時空輝耀姬！
+jp: 超かぐや姫！
+en: Cosmic Princess Kaguya!
+rome: Chou Kaguya-hime!

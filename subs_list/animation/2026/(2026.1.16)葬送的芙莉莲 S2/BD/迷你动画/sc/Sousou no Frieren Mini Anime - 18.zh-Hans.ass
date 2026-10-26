@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYZhengYuan-65S,80,&H00EFFFEF,&H0000FFFF,&H00A7B10A,&H00DEDFCF,0,0,0,0,100,100,0,0,1,3,0,2,10,10,20,1
+Style: Staff,HYZhengYuan-65S,65,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.73,0:00:04.40,Text,,0,0,0,,葬送的芙莉莲 ～●●的魔法～
+Dialogue: 0,0:00:06.73,0:00:09.80,Text,,0,0,0,,将看见的人拘束的魔法
+Dialogue: 0,0:00:11.00,0:00:11.86,Text,,0,0,0,,好啦
+Dialogue: 0,0:00:11.93,0:00:14.80,Text,,0,0,0,,就不勉强修塔尔克加入我们的团队了
+Dialogue: 0,0:00:15.00,0:00:16.86,Text,,0,0,0,,不好意思啦，维尔贝鲁
+Dialogue: 0,0:00:17.06,0:00:18.60,Text,,0,0,0,,顺带一提
+Dialogue: 0,0:00:18.66,0:00:20.46,Text,,0,0,0,,你的“将看见的人拘束的魔法”
+Dialogue: 0,0:00:20.53,0:00:22.46,Text,,0,0,0,,是不是怎么样都无法挣脱呀
+Dialogue: 0,0:00:23.20,0:00:25.73,Text,,0,0,0,,那，要试试看吗
+Dialogue: 0,0:00:29.46,0:00:30.66,Text,,0,0,0,,真的耶
+Dialogue: 0,0:00:30.73,0:00:32.26,Text,,0,0,0,,身体动不了了
+Dialogue: 0,0:00:32.33,0:00:34.20,Text,,0,0,0,,也无法操作魔力了
+Dialogue: 0,0:00:34.53,0:00:37.00,Text,,0,0,0,,在印象中，只要全身都在视线范围内
+Dialogue: 0,0:00:37.01,0:00:38.73,Text,,0,0,0,,就什么都做不了对吧
+Dialogue: 0,0:00:38.83,0:00:40.93,Text,,0,0,0,,对啊，不过对魔王之类的对手
+Dialogue: 0,0:00:41.00,0:00:42.86,Text,,0,0,0,,还没用过就是了啦
+Dialogue: 0,0:00:43.20,0:00:45.20,Text,,0,0,0,,那么…
+Dialogue: 0,0:00:45.26,0:00:47.46,Text,,0,0,0,,捕捉看看那只小鸟吧
+Dialogue: 0,0:00:51.53,0:00:52.33,Text,,0,0,0,,哇
+Dialogue: 0,0:00:52.46,0:00:54.80,Text,,0,0,0,,那里出现了一头气势汹汹的猛牛耶
+Dialogue: 0,0:00:58.46,0:00:59.33,Text,,0,0,0,,啊
+Dialogue: 0,0:00:59.40,0:01:02.06,Text,,0,0,0,,超会呼吸活蹦乱跳的鱼耶
+Dialogue: 0,0:01:05.93,0:01:07.66,Text,,0,0,0,,在没有食物的时候
+Dialogue: 0,0:01:07.73,0:01:09.46,Text,,0,0,0,,用来捕捉紧急粮食非常方便呢
+Dialogue: 0,0:01:09.80,0:01:11.06,Text,,0,0,0,,就是说啊
+Dialogue: 0,0:01:11.13,0:01:12.53,Text,,0,0,0,,不是说一家人
+Dialogue: 0,0:01:12.60,0:01:13.80,Text,,0,0,0,,而是一个团队只要有一个人会用就好了呢
+Dialogue: 0,0:01:13.93,0:01:16.66,Text,,0,0,0,,那，要不要加入我们的团队呀
+Dialogue: 0,0:01:16.93,0:01:18.53,Text,,0,0,0,,容我考虑一下

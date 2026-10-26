@@ -1,0 +1,44 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYZhengYuan-65S,80,&H00EFFFEF,&H0000FFFF,&H00A7B10A,&H00DEDFCF,0,0,0,0,100,100,0,0,1,3,0,2,10,10,20,1
+Style: Staff,HYZhengYuan-65S,65,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.73,0:00:04.93,Text,,0,0,0,,葬送的芙莉蓮 ～●●的魔法～
+Dialogue: 0,0:00:06.80,0:00:09.46,Text,,0,0,0,,讓人拾回童心的魔法
+Dialogue: 0,0:00:10.66,0:00:11.80,Text,,0,0,0,,哈！
+Dialogue: 0,0:00:11.93,0:00:13.06,Text,,0,0,0,,如何？
+Dialogue: 0,0:00:13.13,0:00:14.26,Text,,0,0,0,,怎麼樣啊？
+Dialogue: 0,0:00:14.33,0:00:16.40,Text,,0,0,0,,還是…這樣呢
+Dialogue: 0,0:00:17.20,0:00:19.93,Text,,0,0,0,,還是老樣子，無法決定呢
+Dialogue: 0,0:00:20.06,0:00:22.80,Text,,0,0,0,,已經擺了兩個小時的姿勢了啊
+Dialogue: 0,0:00:23.20,0:00:26.80,Text,,0,0,0,,不知道這次的師傅可以撐多久
+Dialogue: 0,0:00:27.33,0:00:31.53,Text,,0,0,0,,對了，海塔跟辛美爾是從小一起長大的吧
+Dialogue: 0,0:00:31.60,0:00:34.00,Text,,0,0,0,,他小時候也會這樣嗎
+Dialogue: 0,0:00:34.13,0:00:35.86,Text,,0,0,0,,我想想看哦
+Dialogue: 0,0:00:35.93,0:00:39.33,Text,,0,0,0,,老實說，小時候好像不會這樣吧
+Dialogue: 0,0:00:39.53,0:00:43.80,Text,,0,0,0,,不知道什麼時候突然學會的是嗎
+Dialogue: 0,0:00:44.00,0:00:44.93,Text,,0,0,0,,我說啊
+Dialogue: 0,0:00:45.00,0:00:47.20,Text,,0,0,0,,有“讓人拾回童心的魔法”
+Dialogue: 0,0:00:47.26,0:00:48.33,Text,,0,0,0,,來試試看吧
+Dialogue: 0,0:00:49.20,0:00:52.60,Text,,0,0,0,,只要回到小時候，還沒學會耍帥
+Dialogue: 0,0:00:52.66,0:00:53.66,Text,,0,0,0,,應該馬上就能結束了吧
+Dialogue: 0,0:00:54.00,0:00:56.53,Text,,0,0,0,,原來如此，真是個好主意啊
+Dialogue: 0,0:00:56.66,0:00:58.13,Text,,0,0,0,,既然要做的話
+Dialogue: 0,0:00:58.20,0:01:01.13,Text,,0,0,0,,乾脆直接退化成嬰兒階段比較保險對吧
+Dialogue: 0,0:01:01.40,0:01:02.40,Text,,0,0,0,,我知道了
+Dialogue: 0,0:01:18.26,0:01:19.33,Text,,0,0,0,,根本就沒變嘛
+Dialogue: 0,0:01:19.46,0:01:22.00,Text,,0,0,0,,真是抱歉，我記錯了
+Dialogue: 0,0:01:22.13,0:01:25.33,Text,,0,0,0,,原來是與生俱來的本能啊

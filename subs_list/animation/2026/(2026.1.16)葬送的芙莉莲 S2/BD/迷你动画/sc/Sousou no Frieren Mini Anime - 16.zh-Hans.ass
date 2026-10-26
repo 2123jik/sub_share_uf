@@ -1,0 +1,55 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYZhengYuan-65S,80,&H00EFFFEF,&H0000FFFF,&H00A7B10A,&H00DEDFCF,0,0,0,0,100,100,0,0,1,3,0,2,10,10,20,1
+Style: Staff,HYZhengYuan-65S,65,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.13,0:00:04.20,Text,,0,0,0,,葬送的芙莉莲 ～●●的魔法～
+Dialogue: 0,0:00:06.40,0:00:09.46,Text,,0,0,0,,让身体周围变得凉快起来的魔法
+Dialogue: 0,0:00:12.60,0:00:16.00,Text,,0,0,0,,好热，怎么这么热啊
+Dialogue: 0,0:00:16.33,0:00:19.73,Text,,0,0,0,,这个地区的夏天特别地炎热呢
+Dialogue: 0,0:00:20.00,0:00:22.93,Text,,0,0,0,,这么说起来，之前和辛美尔他们一起旅行的时候
+Dialogue: 0,0:00:23.00,0:00:24.93,Text,,0,0,0,,这一带好像的确很热呢
+Dialogue: 0,0:00:25.73,0:00:28.60,Text,,0,0,0,,在太阳下山之前都待在树荫底下休息吧
+Dialogue: 0,0:00:29.60,0:00:31.73,Text,,0,0,0,,但是我们已经没有东西吃了
+Dialogue: 0,0:00:31.80,0:00:33.86,Text,,0,0,0,,得在途中去一趟城镇才行
+Dialogue: 0,0:00:34.20,0:00:35.20,Text,,0,0,0,,对了
+Dialogue: 0,0:00:35.26,0:00:37.93,Text,,0,0,0,,有“让身体周围变得凉快起来的魔法”
+Dialogue: 0,0:00:38.33,0:00:39.40,Text,,0,0,0,,真的吗
+Dialogue: 0,0:00:39.73,0:00:44.26,Text,,0,0,0,,身体周围的话，具体范围是到哪里呢
+Dialogue: 0,0:00:44.86,0:00:47.60,Text,,0,0,0,,好像是一个很小的范围吧
+Dialogue: 0,0:00:47.66,0:00:50.93,Text,,0,0,0,,因为没怎么用，所以也记不太清楚
+Dialogue: 0,0:00:51.40,0:00:53.06,Text,,0,0,0,,总之就用在我身上吧
+Dialogue: 0,0:00:53.13,0:00:55.60,Text,,0,0,0,,只要能摆脱这种酷热，怎么样都好啦
+Dialogue: 0,0:00:56.20,0:00:57.00,Text,,0,0,0,,好哦
+Dialogue: 0,0:01:00.73,0:01:02.33,Text,,0,0,0,,芙莉莲大人
+Dialogue: 0,0:01:02.40,0:01:04.93,Text,,0,0,0,,变得非常凉快，很感动呢
+Dialogue: 0,0:01:05.13,0:01:09.53,Text,,0,0,0,,就是啊，超舒服的，简直就是天堂
+Dialogue: 0,0:01:09.80,0:01:10.93,Text,,0,0,0,,哼哼
+Dialogue: 0,0:01:14.73,0:01:18.13,Text,,0,0,0,,芙莉莲大人，好像有点太冷了
+Dialogue: 0,0:01:18.33,0:01:20.13,Text,,0,0,0,,确…确…确实
+Dialogue: 0,0:01:20.20,0:01:23.13,Text,,0,0,0,,芙莉莲，可…可…以调节一下温度吗
+Dialogue: 0,0:01:24.40,0:01:26.06,Text,,0,0,0,,这个做不到呢
+Dialogue: 0,0:01:27.26,0:01:28.53,Text,,0,0,0,,我想起来了
+Dialogue: 0,0:01:28.60,0:01:32.86,Text,,0,0,0,,因为不能调节温度，所以才不常用啊
+Dialogue: 0,0:01:33.73,0:01:35.40,Text,,0,0,0,,芙…芙莉莲大人
+Dialogue: 0,0:01:35.46,0:01:38.46,Text,,0,0,0,,快到极限了，请帮我们解除魔法吧
+Dialogue: 0,0:01:38.80,0:01:41.86,Text,,0,0,0,,也是，我想想
+Dialogue: 0,0:01:42.93,0:01:44.33,Text,,0,0,0,,要怎么解除来着
+Dialogue: 0,0:01:44.36,0:01:45.04,Text,,0,0,0,,诶
+Dialogue: 0,0:01:45.40,0:01:48.13,Text,,0,0,0,,不是，因为很久没有用了嘛
+Dialogue: 0,0:01:48.30,0:01:51.03,Text,,0,0,0,,诶诶诶～～～～
+Dialogue: 0,0:01:53.86,0:01:56.33,Text,,0,0,0,,那些人怎么穿成这样啊
+Dialogue: 0,0:01:56.40,0:01:59.13,Text,,0,0,0,,他们是怎么调节体温的啊

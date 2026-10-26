@@ -1,0 +1,5 @@
+﻿chs: 身为魔族的我 想向勇者小队的可爱女孩告白。
+cht: 身為魔族的我 想向勇者小隊的可愛女孩告白。
+jp: 勇者パーティーにかわいい子がいたので、告白してみた。
+en: Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
+rome: Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.

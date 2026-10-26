@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYZhengYuan-65S,80,&H00EFFFEF,&H0000FFFF,&H00A7B10A,&H00DEDFCF,0,0,0,0,100,100,0,0,1,3,0,2,10,10,20,1
+Style: Staff,HYZhengYuan-65S,65,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.40,0:00:04.53,Text,,0,0,0,,葬送的芙莉莲 ～●●的魔法～
+Dialogue: 0,0:00:06.20,0:00:09.46,Text,,0,0,0,,封印必杀技的魔法
+Dialogue: 0,0:00:13.26,0:00:13.96,Text,,0,0,0,,诶
+Dialogue: 0,0:00:17.73,0:00:18.93,Text,,0,0,0,,什么
+Dialogue: 0,0:00:19.00,0:00:21.00,Text,,0,0,0,,发动不了必杀技魔法啊
+Dialogue: 0,0:00:23.33,0:00:26.20,Text,,0,0,0,,让对手无法发动必杀技
+Dialogue: 0,0:00:26.26,0:00:29.33,Text,,0,0,0,,这是一个对战斗很有帮助的魔法呢
+Dialogue: 0,0:00:29.80,0:00:31.80,Text,,0,0,0,,所谓的必杀技
+Dialogue: 0,0:00:31.86,0:00:34.53,Text,,0,0,0,,是指最拿手的那一招而已吗
+Dialogue: 0,0:00:35.00,0:00:37.80,Text,,0,0,0,,感觉只有一招吧
+Dialogue: 0,0:00:37.86,0:00:39.73,Text,,0,0,0,,以魔力消耗的程度来看
+Dialogue: 0,0:00:40.40,0:00:43.80,Text,,0,0,0,,如果用在我或艾森身上会怎么样呢
+Dialogue: 0,0:00:43.86,0:00:46.60,Text,,0,0,0,,剑跟斧头的使用技能会全受影响吗
+Dialogue: 0,0:00:46.66,0:00:50.46,Text,,0,0,0,,还是其中最拿手的必杀技而已呢
+Dialogue: 0,0:00:51.00,0:00:52.80,Text,,0,0,0,,不然，用在辛美尔身上
+Dialogue: 0,0:00:52.86,0:00:55.73,Text,,0,0,0,,然后再跟艾森切磋一下吧
+Dialogue: 0,0:00:56.20,0:00:57.06,Text,,0,0,0,,可以啊
+Dialogue: 0,0:00:57.20,0:00:58.46,Text,,0,0,0,,拜托您了
+Dialogue: 0,0:01:02.00,0:01:04.26,Text,,0,0,0,,那么，开始吧
+Dialogue: 0,0:01:08.97,0:01:09.40,Text,,0,0,0,,啊
+Dialogue: 0,0:01:10.26,0:01:12.13,Text,,0,0,0,,辛美尔不动了
+Dialogue: 0,0:01:12.20,0:01:14.20,Text,,0,0,0,,感觉直挺挺地僵掉了耶
+Dialogue: 0,0:01:14.46,0:01:17.46,Text,,0,0,0,,必杀技被封印了吗
+Dialogue: 0,0:01:18.46,0:01:20.06,Text,,0,0,0,,怎么回事啊
+Dialogue: 0,0:01:20.13,0:01:21.60,Text,,0,0,0,,做不到
+Dialogue: 0,0:01:21.66,0:01:23.80,Text,,0,0,0,,帅气的姿势啊
+Dialogue: 0,0:01:23.86,0:01:26.46,Text,,0,0,0,,英俊帅气的姿势做不出来啊
+Dialogue: 0,0:01:27.40,0:01:29.73,Text,,0,0,0,,啊啊啊啊啊啊啊
+Dialogue: 0,0:01:30.33,0:01:31.33,Text,,0,0,0,,就这

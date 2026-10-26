@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,HYZhengYuan-65S,80,&H00EFFFEF,&H0000FFFF,&H00A7B10A,&H00DEDFCF,0,0,0,0,100,100,0,0,1,3,0,2,10,10,20,1
+Style: Staff,HYZhengYuan-65S,65,&H00FFFFFF,&H0000FFFF,&H00040404,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.26,0:00:04.73,Text,,0,0,0,,葬送的芙莉蓮 ～●●的魔法～
+Dialogue: 0,0:00:06.80,0:00:09.06,Text,,0,0,0,,洗淨衣服的魔法
+Dialogue: 0,0:00:11.26,0:00:12.46,Text,,0,0,0,,菲倫
+Dialogue: 0,0:00:12.53,0:00:17.33,Text,,0,0,0,,作為一級魔法使測驗合格的特權
+Dialogue: 0,0:00:17.40,0:00:19.40,Text,,0,0,0,,我賜給你一個喜歡的魔法
+Dialogue: 0,0:00:21.60,0:00:23.60,Text,,0,0,0,,請給我洗淨衣服的魔法
+Dialogue: 0,0:00:26.20,0:00:27.80,Text,,0,0,0,,洗淨衣服
+Dialogue: 0,0:00:27.93,0:00:28.66,Text,,0,0,0,,是的
+Dialogue: 0,0:00:28.86,0:00:30.60,Text,,0,0,0,,你是認真的嗎
+Dialogue: 0,0:00:30.66,0:00:33.06,Text,,0,0,0,,什麼樣的魔法都可以哦
+Dialogue: 0,0:00:33.46,0:00:36.53,Text,,0,0,0,,什麼樣的魔法應該有洗淨衣服的魔法吧
+Dialogue: 0,0:00:38.73,0:00:42.00,Text,,0,0,0,,去除白色衣服上的泛黃的魔法
+Dialogue: 0,0:00:42.13,0:00:43.13,Text,,0,0,0,,不錯呢
+Dialogue: 0,0:00:43.20,0:00:46.53,Text,,0,0,0,,我跟芙莉蓮大人都常穿白色衣服
+Dialogue: 0,0:00:46.60,0:00:48.80,Text,,0,0,0,,這樣就不用擔心泛黃了
+Dialogue: 0,0:00:48.86,0:00:49.80,Text,,0,0,0,,還有其他的嗎
+Dialogue: 0,0:00:50.60,0:00:54.60,Text,,0,0,0,,不管什麼樣的天氣與氣候都能讓衣服乾透的魔法
+Dialogue: 0,0:00:54.73,0:00:56.13,Text,,0,0,0,,不錯呢
+Dialogue: 0,0:00:56.20,0:00:58.80,Text,,0,0,0,,這樣不用擔心衣服晾不乾了
+Dialogue: 0,0:00:58.86,0:00:59.86,Text,,0,0,0,,還有其他的嗎
+Dialogue: 0,0:01:00.33,0:01:04.66,Text,,0,0,0,,把皺皺的衣服折得漂漂亮亮的魔法
+Dialogue: 0,0:01:05.26,0:01:06.60,Text,,0,0,0,,賽麗艾大人
+Dialogue: 0,0:01:06.66,0:01:09.20,Text,,0,0,0,,您是不是還有些保留呢
+Dialogue: 0,0:01:09.26,0:01:11.66,Text,,0,0,0,,雖然都能派上用場
+Dialogue: 0,0:01:11.73,0:01:14.86,Text,,0,0,0,,卻都沒有正中洗衣的本質
+Dialogue: 0,0:01:15.00,0:01:16.60,Text,,0,0,0,,一定有的吧
+Dialogue: 0,0:01:16.66,0:01:18.06,Text,,0,0,0,,傳說級的魔法！
+Dialogue: 0,0:01:20.26,0:01:23.93,Text,,0,0,0,,將衣服的髒汙徹底清除的魔法
+Dialogue: 0,0:01:25.86,0:01:27.06,Text,,0,0,0,,就是那個
+Dialogue: 0,0:01:27.46,0:01:29.33,Text,,0,0,0,,我再問一次
+Dialogue: 0,0:01:29.40,0:01:31.06,Text,,0,0,0,,你是認真的嗎
+Dialogue: 0,0:01:31.13,0:01:34.00,Text,,0,0,0,,還有其他實用的攻擊魔法哦
+Dialogue: 0,0:01:34.60,0:01:37.26,Text,,0,0,0,,將衣服的髒汙徹底清除的魔法
+Dialogue: 0,0:01:37.33,0:01:38.33,Text,,0,0,0,,拜託了
+Dialogue: 0,0:01:41.80,0:01:44.14,Text,,0,0,0,,*某日
+Dialogue: 0,0:01:46.60,0:01:48.46,Text,,0,0,0,,吶 讚則
+Dialogue: 0,0:01:48.53,0:01:51.26,Text,,0,0,0,,如果你今天用特權得到一個魔法
+Dialogue: 0,0:01:51.33,0:01:52.33,Text,,0,0,0,,你會想要什麼
+Dialogue: 0,0:01:53.26,0:01:56.33,Text,,0,0,0,,讓頭髮整理起來很容易的魔法
+Dialogue: 0,0:01:57.33,0:01:59.33,Text,,0,0,0,,真是愚蠢啊
