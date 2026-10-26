@@ -1,0 +1,5 @@
+﻿chs: Back Arrow/巴克·亚罗/逆回之矢(乳)
+cht: Back Arrow/巴克·亞羅/逆回之矢(乳)
+jp: バック・アロウ
+en: Back Arrow
+rome: Back Arrow
