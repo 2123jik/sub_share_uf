@@ -1,0 +1,24 @@
+name: Continuous Mirror Daemon
+
+on:
+  schedule:
+    # 每天早晚 8 点各自动巡检追更一次（北京时间）
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 支持手动一键运行
+
+jobs:
+  mirror_sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出当前仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 SVN 依赖
+        run: sudo apt-get update -qq && sudo apt-get install -y subversion
+
+      - name: 执行增量同步守护脚本
+        run: |
+          chmod +x ./sync_daemon.sh
+          ./sync_daemon.sh
