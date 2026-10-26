@@ -66,10 +66,13 @@ jobs:
             svn export --force "${SVN_OPTS[@]}" "$BASE_URL/$YR" "$TARGET_DIR"
 
             # 立即提交并推送到 GitHub
+            # 立即提交并推送到 GitHub
             git add "$TARGET_DIR"
             if ! git diff --staged --quiet; then
               git commit -m "sync: animation/$YR"
-              git push origin HEAD
+              # 先把远程新提交（比如你刚改的 yml/脚本）拉下来变基合入，再推送
+              git pull --rebase origin main
+              git push origin HEAD:main
               echo ">>> 推送完成: $YR"
             fi
           done
