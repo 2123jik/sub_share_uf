@@ -1,0 +1,5 @@
+﻿chs: 间谍过家家/间谍家家酒 S3
+cht: 間諜過家家/間諜家家酒 S3
+jp: SPY×FAMILY S3
+en: Spy x Family S3
+rome: Spy x Family S3

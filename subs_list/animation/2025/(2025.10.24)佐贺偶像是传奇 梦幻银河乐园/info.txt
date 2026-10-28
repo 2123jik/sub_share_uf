@@ -1,0 +1,5 @@
+﻿chs: 剧场版：佐贺偶像是传奇 梦幻银河乐园
+cht: 劇場版：佐賀偶像是傳奇 夢幻銀河樂園
+jp: 映画：劇場版『ゾンビランドサガ ゆめぎんがパラダイス』
+en: Zombie Land Saga Yumeginga Paradise
+rome: Zombie Land Saga Yumeginga Paradise

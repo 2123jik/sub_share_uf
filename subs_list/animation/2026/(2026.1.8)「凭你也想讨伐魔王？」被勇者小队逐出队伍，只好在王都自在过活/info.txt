@@ -1,0 +1,5 @@
+﻿chs: 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活/因为被以“就凭你也想打倒魔王吗”这样的理由逐出了勇者的队伍，所以想在王都自由自在地生活
+cht: 「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活/因為被以“就憑你也想打倒魔王嗎”這樣的理由逐出了勇者的隊伍，所以想在王都自由自在地生活
+jp: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
+en: Omagoto/"Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai
+rome: Omagoto/"Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai
