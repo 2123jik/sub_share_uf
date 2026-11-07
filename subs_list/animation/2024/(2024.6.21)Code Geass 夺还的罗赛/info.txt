@@ -1,0 +1,5 @@
+﻿chs: Code Geass 夺回的Rozé/夺还的罗赛
+cht: Code Geass 奪回的Rozé/奪還的羅賽
+jp: コードギアス 奪還のロゼ
+en: CCODE GEASS Rozé of the Recapture/CODE GEASS Roze of the Recapture
+rome: Code Geass ~Dakkan no Roze~
